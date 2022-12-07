@@ -1,0 +1,1881 @@
+,app_name,Apple Genre,Apple Rating,Apple Reviews,Google Genre,Google Rating,Google Reviews
+0,B&H Kids AR,Book,3.25,92,BOOKS_AND_REFERENCE,3.9,286
+1,Ebook Reader,Book,3.7375,480,BOOKS_AND_REFERENCE,4.1,85842
+2,M+,Book,4.82012,1123,NEWS_AND_MAGAZINES,4.9,198
+3,M+,Lifestyle,0.0,0,NEWS_AND_MAGAZINES,4.9,198
+4,M+,Productivity,0.0,0,NEWS_AND_MAGAZINES,4.9,198
+5,Mad Libs,Entertainment,4.1828,2697,FAMILY,4.0,8126
+6,A+ Mobile,Finance,4.64564,3598,FINANCE,3.9,730
+7,K PLUS,Finance,2.625,136,FINANCE,4.4,124424
+8,K PLUS,Finance,2.625,136,FINANCE,4.4,124324
+9,BA Pro Financial Calculator,Finance,0.0,0,FINANCE,2.4,36
+10,Learn Artificial Intelligence,Education,4.33333,6,FAMILY,4.6,27
+11,M-Files,Business,4.0,4,BUSINESS,4.4,236
+12,Facebook Ads Manager,Business,3.96938,5094,BUSINESS,4.1,19023
+13,Facebook Ads Manager,Business,3.96938,5094,BUSINESS,4.1,19051
+14,Facebook Face to Face Events,Business,4.0,4,BUSINESS,4.4,4518
+15,DC Public Library,Book,4.3,10,BOOKS_AND_REFERENCE,4.2,20
+16,CA Auth ID,Business,1.0,2,TOOLS,3.8,39
+17,CA DMV,Business,3.05215,326,TOOLS,4.2,5463
+18,CA Mobile OTP,Business,3.0,8,TOOLS,3.3,688
+19,Kids A-Z,Education,3.68158,5185,FAMILY,4.2,26426
+20,EGW Writings,Reference,4.19663,178,BOOKS_AND_REFERENCE,4.7,24278
+21,EGW Writings,Reference,0.0,0,BOOKS_AND_REFERENCE,4.7,24278
+22,EGW Writings 2,Reference,4.64112,1644,BOOKS_AND_REFERENCE,4.7,6547
+23,CA Service Management,Business,2.0,1,BUSINESS,3.4,91
+24,Visuelles Wörterbuch Audio-App,Education,2.8,10,FAMILY,3.1,192
+25,AE Bulletins,Reference,4.76389,216,BOOKS_AND_REFERENCE,4.5,14
+26,Q MINDshare Mobile,Business,4.0,4,BUSINESS,3.4,24
+27,Q-See Plus,Utilities,1.7,70,VIDEO_PLAYERS,2.2,32
+28,Q-See QC View,Utilities,1.82712,295,TOOLS,3.1,657
+29,Q-See QT View,Utilities,2.98156,3580,TOOLS,3.6,7357
+30,R+F PULSE,Business,4.0,49,BUSINESS,3.4,58
+31,WiFi FPV,Book,2.75,8,FAMILY,3.8,316
+32,AJ Academy: Amazing Animals,Education,4.35625,160,FAMILY,4.5,1564
+33,Marvel Unlimited,Book,4.7961,48282,COMICS,3.7,22551
+34,English Audio Books - Librivox,Book,4.41026,39,FAMILY,4.0,10773
+35,Florida - Pocket Brainbook,Reference,3.69231,13,BOOKS_AND_REFERENCE,4.6,7
+36,Nighty Night Circus,Education,4.13558,59,FAMILY,4.3,382
+37,Chapters: Interactive Stories,Games,4.43355,95055,GAME,4.5,73539
+38,Al Quran (Tafsir & by Word),Book,4.82265,2825,BOOKS_AND_REFERENCE,4.8,57400
+39,Al Quran Indonesia,Reference,4.87374,198,BOOKS_AND_REFERENCE,4.8,445756
+40,Google Play Books,Book,4.52886,9078,BOOKS_AND_REFERENCE,3.9,1433233
+41,English Hindi Dictionary,Education,5.0,1,BOOKS_AND_REFERENCE,4.4,384368
+42,NOOK Audiobooks,Book,2.73333,45,BOOKS_AND_REFERENCE,3.5,2539
+43,U.S. Bank,Finance,4.78179,1182224,FINANCE,4.1,70782
+44,W Box VMS,Business,4.0,14,VIDEO_PLAYERS,1.9,105
+45,W Box VMS HD,Business,1.0,1,VIDEO_PLAYERS,2.5,24
+46,"Alizay, pirate girl",Book,4.66667,3,FAMILY,4.5,197
+47,Wowkwis aq Ka'qaquj,Education,1.0,1,FAMILY,5.0,1
+48,Bible,Reference,4.90797,7181127,BOOKS_AND_REFERENCE,4.7,2440695
+49,Bible,Reference,0.0,0,BOOKS_AND_REFERENCE,4.7,2440695
+50,Safe Ag Systems™,Business,0.0,0,BUSINESS,4.7,3
+51,Bible KJV,Book,4.83979,8133,BOOKS_AND_REFERENCE,4.5,42729
+52,ODTMobile,Utilities,2.2,5,BUSINESS,3.4,15
+53,Amazon Kindle,Book,4.84643,3233670,BOOKS_AND_REFERENCE,4.2,814080
+54,Amazon Kindle,Book,4.84643,3233670,BOOKS_AND_REFERENCE,4.2,814151
+55,Bank of America Mobile Banking,Finance,4.82062,3227999,FINANCE,4.4,341090
+56,CJ Fallon eBook Reader,Education,0.0,0,FAMILY,1.9,76
+57,DK 15 Minute Language Course,Education,2.6,55,FAMILY,2.8,21
+58,Mail1Click - Secure Mail,Productivity,5.0,1,COMMUNICATION,4.1,255
+59,Banorte Movil,Finance,4.19444,1728,FINANCE,4.1,111632
+60,"KAYAK Flights, Hotels & Cars",Travel,4.80548,293819,TRAVEL_AND_LOCAL,4.5,216388
+61,Navy Federal Credit Union,Finance,4.83981,154339,FINANCE,4.4,43313
+62,EB-Link,Business,5.0,6,BUSINESS,4.8,6
+63,Ebenezer AH,Business,3.66667,3,MEDICAL,4.0,4
+64,Zenefits,Business,4.28326,233,BUSINESS,4.2,296
+65,Barcode Scanner,Utilities,0.0,0,LIBRARIES_AND_DEMO,4.2,3945
+66,DB Stay Connected,Business,5.0,3,BUSINESS,4.6,17
+67,Pediatric Nursing,Education,0.0,0,MEDICAL,4.9,14
+68,CL REPL,Education,5.0,9,TOOLS,5.0,47
+69,Branch,Developer Tools,0.0,0,FINANCE,4.6,69973
+70,FB Live,Business,5.0,1,BUSINESS,3.7,27
+71,Speed Reading,Lifestyle,2.33333,6,EDUCATION,4.6,10611
+72,Speed Reading,Education,0.0,0,EDUCATION,4.6,10611
+73,Mirror,Developer Tools,0.0,0,LIFESTYLE,4.1,367505
+74,Nedbank Money,Finance,4.43335,1853,FINANCE,4.2,6076
+75,HCP Anywhere,Productivity,4.2,5,BUSINESS,4.7,114
+76,Quotes,Business,0.0,0,LIBRARIES_AND_DEMO,4.4,58
+77,B y H Niños ES,Education,2.04999,20,BOOKS_AND_REFERENCE,4.6,53
+78,FD e-paper,News,3.66667,3,NEWS_AND_MAGAZINES,3.1,183
+79,F-Sim Space Shuttle,Games,4.59194,794,FAMILY,4.4,5427
+80,ReadyOp DT,Utilities,3.0,2,COMMUNICATION,4.6,8
+81,JOBS.bg,Business,4.81159,69,BUSINESS,4.4,1630
+82,I am Dentist - Save my Teeth,Games,4.08302,265,FAMILY,4.3,7443
+83,NEMA ei,Business,5.0,8,BUSINESS,5.0,4
+84,My Little Pony: Story Creator,Education,3.98778,491,FAMILY,4.2,11002
+85,AAFP,Medical,4.43605,516,MEDICAL,3.8,63
+86,ZOOM Cloud Meetings,Business,4.57988,2040151,BUSINESS,4.4,31614
+87,IKO,Finance,4.81654,1657,FINANCE,4.7,167168
+88,EdiRange,Business,1.83333,12,TOOLS,3.0,736
+89,Daily K-Talk,Education,3.0,4,FAMILY,4.3,264
+90,BBC News,News,4.63507,69314,NEWS_AND_MAGAZINES,4.3,296781
+91,Q Wunder,Education,4.71584,183,FAMILY,3.8,156
+92,NetClient CS,Business,2.19014,142,BUSINESS,3.5,125
+93,EF App,Business,0.0,0,BUSINESS,5.0,8
+94,EF Forms,Productivity,0.0,0,BUSINESS,5.0,2
+95,EF Teacher,Education,0.0,0,FAMILY,3.1,16
+96,Samsung SMART CAMERA App,Business,1.52113,284,PHOTOGRAPHY,4.0,34753
+97,AV Phonetics,Education,4.83333,6,FAMILY,4.3,259
+98,Daniel Tiger for Parents,Education,3.89766,342,PARENTING,4.7,247
+99,R Instructor,Reference,5.0,3,FAMILY,4.1,135
+100,Kimbrough AH,Business,4.33333,3,MEDICAL,5.0,5
+101,Websites.co.in Instant Website,Business,0.0,0,BUSINESS,4.3,327
+102,Sabbath School 4,Education,2.80444,450,FAMILY,4.3,2871
+103,B-Messenger Video Chat,Social Networking,3.875,80,SOCIAL,4.1,12495
+104,CA Lottery Official App,Entertainment,4.78336,178122,FAMILY,4.2,7000
+105,EK Bailey Preaching Conference,Business,5.0,3,EVENTS,5.0,3
+106,Radiology CT Viewer,Medical,4.16667,12,MEDICAL,3.6,35
+107,UPS Mobile,Business,4.41536,31546,BUSINESS,3.9,23243
+108,Who am I? (Biblical),Games,3.66667,9,GAME,4.5,5849
+109,ABC Kids - Tracing & Phonics,Education,0.0,0,FAMILY,4.5,36606
+110,EB Mobile,Education,5.0,1,FAMILY,1.7,1172
+111,Safe Santa Fe,Education,4.33333,3,FAMILY,5.0,2
+112,Navi Radiography Pro,Medical,2.6,5,MEDICAL,4.7,11
+113,Wells Fargo Mobile,Finance,4.84314,6275778,FINANCE,4.4,250706
+114,Wells Fargo Mobile,Finance,4.84314,6275778,FINANCE,4.4,250719
+115,DB Train Simulator,Games,3.33333,15,FAMILY,3.7,6514
+116,EC Calgary,Education,0.0,0,FAMILY,5.0,6
+117,Sago Mini Babies,Education,4.50413,121,FAMILY,4.5,253
+118,Sago Mini Big City,Education,4.02381,42,FAMILY,4.2,8
+119,Sago Mini Friends,Education,4.17021,47,FAMILY,4.4,13155
+120,Sago Mini Hat Maker,Education,4.5,8,EDUCATION,4.9,11
+121,Indeed Job Search,Business,4.74927,1948402,BUSINESS,4.3,674730
+122,Call of Mini™ Dino Hunter,Games,4.32724,5146,GAME,4.2,326042
+123,Call of Mini™ Zombies 2,Games,4.29164,10616,GAME,4.4,248417
+124,Paramedic Pocket Prep,Medical,4.69001,1842,MEDICAL,4.3,460
+125,ABCmouse.com,Education,4.52094,599236,FAMILY,4.3,50887
+126,Elkhart County 4-H Fair,Business,4.0,4,FAMILY,3.9,38
+127,ADP Mobile Solutions,Business,4.69186,1945272,BUSINESS,4.3,85185
+128,YouTube Kids,Entertainment,4.6739,1555165,ENTERTAINMENT,4.5,470089
+129,YouTube Kids,Entertainment,4.6739,1555165,FAMILY,4.5,470694
+130,YouTube Kids,Entertainment,4.6739,1555165,FAMILY,4.5,470713
+131,YouTube Kids,Entertainment,4.6739,1555165,FAMILY,4.5,469851
+132,VictronConnect,Business,0.0,0,TOOLS,3.8,400
+133,Casa de Bolsa Bx+ Móvil,Finance,5.0,1,FINANCE,3.4,5
+134,H*nest Meditation,Entertainment,4.67619,105,LIFESTYLE,4.9,145
+135,I am Bread,Games,4.03254,1198,GAME,4.0,630
+136,J-UFO,Photo & Video,2.9,10,FAMILY,3.5,339
+137,J.ME Fly,Entertainment,4.0,3,FAMILY,3.9,28
+138,I Am Wizard,Games,4.09999,10,FAMILY,4.2,1493
+139,L.O.L. Surprise Ball Pop,Games,4.24324,1961,FAMILY,4.3,10088
+140,I Know Stuff,Games,3.14286,7,GAME,4.2,214923
+141,Cash App,Finance,4.74437,2013912,FINANCE,4.0,34428
+142,Yuzu eReader,Education,4.47488,6071,FAMILY,1.9,250
+143,Can Knockdown,Games,4.36517,2596,FAMILY,4.1,155649
+144,Can Knockdown 3,Games,4.72222,342,GAME,4.1,349503
+145,Khan Academy,Education,4.3681,36091,EDUCATION,4.6,85375
+146,WhatsApp Business,Business,4.74655,286071,COMMUNICATION,4.4,136662
+147,WhatsApp Business,Business,4.74655,286071,COMMUNICATION,4.4,137144
+148,DG Mobile,Business,5.0,1,GAME,4.3,59
+149,DG Surveyor,Business,0.0,0,BUSINESS,3.6,5
+150,Mad Day - Truck Distance Game,Games,4.6746,126,GAME,4.3,29270
+151,Learn alif ba ta,Education,5.0,1,FAMILY,4.8,23
+152,Barbie Magical Fashion,Entertainment,4.41368,113792,FAMILY,4.0,328619
+153,TAMAGO,Education,0.0,0,FAMILY,3.0,42515
+154,NARUTO X BORUTO NINJA VOLTAGE,Games,4.67107,48035,GAME,4.4,267395
+155,NASCAR MOBILE,Sports,4.67289,114590,SPORTS,4.2,80900
+156,Egg,Games,4.48219,1572,FAMILY,2.9,72
+157,Educational Games 4 Kids,Games,4.29412,17,FAMILY,4.3,11618
+158,ING Banking,Finance,3.68254,126,FINANCE,4.4,39041
+159,Dash Quest Heroes,Games,4.42553,2867,GAME,4.3,8432
+160,Oracle BI Mobile,Business,2.23077,26,BUSINESS,4.0,282
+161,Oracle CX Cloud Mobile,Business,3.83333,24,BUSINESS,4.4,48
+162,SCB EASY,Finance,3.36364,88,FINANCE,4.2,112656
+163,Learn Body Parts in English,Education,0.0,0,FAMILY,4.0,7243
+164,Inches to Centimeters,Utilities,5.0,1,TOOLS,3.6,949
+165,CB Bank Mobile Banking,Finance,3.22751,189,FINANCE,4.5,1308
+166,CB Pay,Finance,3.6095,379,FINANCE,4.5,198
+167,CB Trader,Finance,4.59999,5,FINANCE,4.7,11
+168,CB-Mobile Banking,Finance,4.46875,96,FINANCE,4.5,96
+169,Employ Florida Mobile,Business,2.66667,15,BUSINESS,2.9,97
+170,Wifi Action Camera,Business,2.28571,7,PHOTOGRAPHY,2.9,118
+171,Nature Sounds,Entertainment,4.625,8,LIFESTYLE,4.8,28588
+172,Candy Crush Saga,Games,4.70856,2177394,GAME,4.4,22426677
+173,Candy Crush Saga,Games,4.70856,2177394,GAME,4.4,22428456
+174,Candy Crush Saga,Games,4.70856,2177394,GAME,4.4,22429716
+175,Candy Crush Saga,Games,4.70856,2177394,GAME,4.4,22430188
+176,Candy Crush Saga,Games,4.70856,2177394,FAMILY,4.4,22419455
+177,Have your say on Europe,Education,5.0,1,COMMUNICATION,3.8,19
+178,PBS KIDS Games,Education,3.89943,5230,FAMILY,4.3,12919
+179,PBS KIDS Video,Education,4.194,20273,EDUCATION,4.2,36212
+180,PBS KIDS Video,Education,4.194,20273,FAMILY,4.2,36214
+181,Eh Volevi!,Entertainment,1.0,1,FAMILY,3.9,1619
+182,Last Shelter: Survival,Games,3.95033,13893,GAME,4.4,93033
+183,Ei Samay - Bengali News Paper,News,3.38095,21,NEWS_AND_MAGAZINES,4.3,20620
+184,Oración CX,Lifestyle,0.0,0,LIFESTYLE,5.0,103
+185,Navy Gunner Shoot War 3D,Games,3.0,9,GAME,4.0,103199
+186,Ag PhD Field Guide,Reference,2.71429,7,BOOKS_AND_REFERENCE,4.1,114
+187,NBA JAM by EA SPORTS™,Games,3.5428,3119,FAMILY,4.3,56444
+188,NBC Sports,Sports,4.53985,316075,SPORTS,3.1,78442
+189,NCAA March Madness Live,Sports,4.71091,393130,SPORTS,4.1,34123
+190,Unit Converter,Utilities,0.0,0,TOOLS,4.5,85387
+191,Unit Converter,Utilities,2.0,7,TOOLS,4.5,85387
+192,PAC-MAN,Games,4.18804,21813,GAME,4.2,685981
+193,PAC-MAN,Games,4.18804,21813,GAME,4.2,685450
+194,Background Changer & Eraser,Photo & Video,4.45098,51,PHOTOGRAPHY,4.0,2076
+195,T-Mobile Tuesdays,Lifestyle,4.76886,294469,LIFESTYLE,4.0,53144
+196,Oggy,Games,3.84746,59,GAME,4.5,49971
+197,I'm Ping Pong King :),Games,4.82656,21402,SPORTS,4.4,29864
+198,Ohio State Fair 4-H,Entertainment,3.5,2,FAMILY,3.0,4
+199,EF English Live Business,Education,4.08333,12,FAMILY,3.6,496
+200,Endress+Hauser Operations,Business,3.66667,3,BUSINESS,4.5,234
+201,Gardenscapes,Games,4.64278,981264,GAME,4.6,4128732
+202,Gardenscapes,Games,4.64278,981264,GAME,4.6,4129665
+203,Ice Cream Jump,Games,4.36897,748,FAMILY,4.2,141363
+204,Journal Club: Medicine,Medical,4.51639,122,MEDICAL,4.8,216
+205,Family Guy The Quest for Stuff,Games,4.11876,12201,GAME,4.0,995002
+206,EF Smart English,Education,4.26471,34,FAMILY,3.7,150
+207,Acupuncture Assistant,Education,4.8,5,MEDICAL,4.5,492
+208,BC Connect,Education,3.45455,11,FAMILY,3.8,11
+209,BC Navigator,Education,2.5,34,FAMILY,4.4,21
+210,Financial Times,News,4.80494,11899,NEWS_AND_MAGAZINES,4.2,27104
+211,Deck Heroes: Legacy,Games,3.46721,122,GAME,4.7,466495
+212,Painting By Numbers,Games,4.45455,11,FAMILY,4.1,213
+213,VisualCV Resume Builder,Business,4.24,75,BUSINESS,4.6,2555
+214,Next Gen Science Standards,Education,2.30645,62,EDUCATION,4.3,206
+215,Wireless BP,Business,2.07143,14,MEDICAL,1.8,30
+216,Dictionary,Education,0.0,0,BOOKS_AND_REFERENCE,4.5,264260
+217,Direct Express®,Finance,4.61754,4139,FINANCE,4.5,6156
+218,Talking Angela,Entertainment,3.79636,46498,ENTERTAINMENT,3.7,1828284
+219,Fantastic Chefs: Match 'n Cook,Games,4.70787,1448,FAMILY,4.7,8600
+220,Happy Birthday Songs Offline,Music,0.0,0,EVENTS,4.4,464
+221,Talking Ben the Dog,Entertainment,4.30877,23282,ENTERTAINMENT,4.3,1633682
+222,Talking Ben the Dog,Entertainment,4.30877,23282,FAMILY,4.3,1633565
+223,Hello Kitty Lunchbox,Entertainment,4.36674,4169,FAMILY,4.2,51838
+224,Hello Kitty Nail Salon,Entertainment,4.33572,3768,GAME,4.2,369203
+225,Hello Kitty Nail Salon,Entertainment,4.33572,3768,FAMILY,4.2,369378
+226,Talking Ginger,Entertainment,4.12003,25527,FAMILY,4.2,1752017
+227,Talking Ginger 2,Entertainment,4.30884,43503,ENTERTAINMENT,4.2,702975
+228,Hello Stars,Games,4.58844,187758,GAME,4.6,101686
+229,BG Advisor™,Reference,4.85714,7,TOOLS,4.4,7
+230,BG Products,Reference,5.0,4,AUTO_AND_VEHICLES,4.8,4
+231,SAT Vocabulary,Education,4.0,7,EDUCATION,4.2,642
+232,University of Alabama,Education,3.04762,21,FAMILY,4.5,302
+233,Remind: School Communication,Education,4.77321,1009309,EDUCATION,4.5,108613
+234,University of Florida,Education,1.46667,30,FAMILY,4.0,168
+235,Bi en Línea,Finance,4.64987,814,FINANCE,4.0,5055
+236,BI Office,Business,5.0,1,BUSINESS,4.0,76
+237,BI SmartLINK,Business,3.03627,193,BUSINESS,3.6,16
+238,Learn English with Phrases,Education,1.0,1,EDUCATION,4.2,5695
+239,TAXLANDIA,Games,2.875,8,FAMILY,1.9,141
+240,Resume App,Productivity,4.44444,63,BUSINESS,4.4,11310
+241,KDRAMA Amino for K-Drama Fans,Social Networking,4.65972,144,SOCIAL,4.6,4046
+242,JW Library,Reference,4.80985,30657,BOOKS_AND_REFERENCE,4.9,922752
+243,Farm Heroes Saga,Games,4.5786,67114,GAME,4.4,7614130
+244,Farm Heroes Saga,Games,4.5786,67114,GAME,4.4,7614271
+245,Farm Heroes Saga,Games,4.5786,67114,GAME,4.4,7614415
+246,Farm Heroes Saga,Games,4.5786,67114,GAME,4.4,7614407
+247,Farm Heroes Saga,Games,4.5786,67114,FAMILY,4.4,7615646
+248,HESI A2 Pocket Prep,Medical,4.72917,5472,MEDICAL,4.3,2108
+249,SCS eC,Business,0.0,0,PRODUCTIVITY,4.4,7
+250,LEGO Batman: DC Super Heroes,Games,4.01273,3222,FAMILY,4.2,2557
+251,Epson iProjection,Productivity,1.76224,143,PRODUCTIVITY,3.5,3930
+252,AE FreeCell,Games,4.5,2,GAME,4.2,358
+253,AE GTO Racing,Games,3.25,12,GAME,3.9,6988
+254,AE Jewels,Games,4.34884,43,GAME,4.2,960
+255,AE Lucky Fishing,Games,4.34117,85,GAME,4.3,18277
+256,AE Solitaire,Games,4.28829,111,GAME,4.3,1776
+257,AE Spider Solitaire,Games,4.7037,162,GAME,4.5,17263
+258,AE Sudoku,Games,3.56,25,FAMILY,4.3,2171
+259,AE Video Poker,Games,3.75,4,GAME,4.0,721
+260,Mahjong,Games,4.53603,26129,FAMILY,4.5,33983
+261,Canvas FL,Lifestyle,5.0,9,FAMILY,4.9,36
+262,Canvas Student,Education,4.65418,2147317,EDUCATION,4.5,42828
+263,Farming Simulator 14,Games,4.1268,2224,FAMILY,4.5,530854
+264,Farming Simulator 14,Games,4.1268,2224,FAMILY,4.5,530904
+265,Learn German: Die Bienenretter,Education,4.66667,6,FAMILY,4.0,25
+266,LEGO® TV,Entertainment,3.69126,366,ENTERTAINMENT,3.7,17247
+267,LEGO® TV,Entertainment,3.69126,366,FAMILY,3.7,17250
+268,Voice Changer,Entertainment,4.159,239,FAMILY,4.1,138050
+269,Desperate Housewives: The Game,Games,4.28399,1905,FAMILY,4.2,10440
+270,Volvo CE Insider,Productivity,4.66667,6,BUSINESS,4.2,45
+271,Wikipedia,Reference,4.45773,3738,BOOKS_AND_REFERENCE,4.4,577550
+272,Leo and Tig,Entertainment,4.57843,816,FAMILY,4.5,47644
+273,MediaFire,Productivity,4.3045,1133,PRODUCTIVITY,4.1,71432
+274,Jetpack Joyride,Games,4.6963,62648,GAME,4.4,4638163
+275,Jetpack Joyride,Games,4.6963,62648,GAME,4.4,4637439
+276,AfterFocus,Photo & Video,3.2029,69,PHOTOGRAPHY,4.2,165224
+277,Barbie™ Fashion Closet,Entertainment,4.17492,7575,GAME,4.1,68057
+278,Barbie™ Fashion Closet,Entertainment,4.17492,7575,FAMILY,4.1,68286
+279,Local Services ads by Google,Business,2.91935,62,BUSINESS,4.1,7
+280,Agar.io,Games,4.56601,169221,GAME,4.2,3816799
+281,Agar.io,Games,4.56601,169221,GAME,4.2,3815614
+282,Voxer Walkie Talkie Messenger,Business,2.99749,1197,COMMUNICATION,4.3,230564
+283,Harkins Theatres,Entertainment,3.29167,96,ENTERTAINMENT,4.3,1511
+284,Agenda EF,Education,1.0,1,FAMILY,3.4,79
+285,Major Mayhem,Games,4.75771,4734,GAME,4.6,520962
+286,Harry Potter: Hogwarts Mystery,Games,4.7018,1031861,GAME,4.4,1107310
+287,Harry Potter: Hogwarts Mystery,Games,4.7018,1031861,GAME,4.4,1107197
+288,GMAT Math Flashcards,Education,4.81738,1265,EDUCATION,4.4,1769
+289,DG TV,Entertainment,0.0,0,NEWS_AND_MAGAZINES,5.0,3
+290,Invasive Alien Species Europe,Education,0.0,0,FAMILY,4.5,13
+291,Operate Now: Hospital,Games,4.5144,86511,FAMILY,4.3,254861
+292,Phonics Puzzles,Education,5.0,1,FAMILY,3.8,4
+293,DH-UFO,Entertainment,0.0,0,FAMILY,5.0,1
+294,TED,Education,4.62472,8338,EDUCATION,4.6,181893
+295,TED,Education,4.62472,8338,FAMILY,4.6,181961
+296,Radio Javan,Music,4.79093,729185,ENTERTAINMENT,4.4,46916
+297,Ah! Coins,Games,4.66667,3,GAME,3.4,256
+298,School of Dragons,Games,4.34211,20663,FAMILY,4.1,530792
+299,Google Ads,Business,4.5387,1292,BUSINESS,4.3,29313
+300,Google Ads,Business,4.5387,1292,BUSINESS,4.3,29331
+301,Google Analytics,Business,4.6833,5166,BUSINESS,4.5,78662
+302,Disciple Maker’s (DM) Lab,Education,0.0,0,FAMILY,5.0,3
+303,Google My Business,Business,4.6353,33255,BUSINESS,4.4,70991
+304,Google Primer,Business,4.86278,1851,BUSINESS,4.4,62272
+305,Google Sheets,Productivity,4.78247,917573,PRODUCTIVITY,4.3,496399
+306,Google Sheets,Productivity,4.78247,917573,PRODUCTIVITY,4.3,496397
+307,Google Slides,Productivity,4.62931,229095,PRODUCTIVITY,4.2,244567
+308,DN,News,2.88889,9,NEWS_AND_MAGAZINES,3.3,78
+309,EMT Review Plus,Medical,3.77419,31,MEDICAL,4.5,199
+310,Hay Day,Games,4.67719,390852,FAMILY,4.5,10053186
+311,Empire Z: Endless War,Games,3.5379,409,FAMILY,4.2,367951
+312,Discovery Church Florida,Lifestyle,4.88889,9,LIFESTYLE,4.7,40
+313,Rider,Business,0.0,0,GAME,4.5,655067
+314,Rider,Business,0.0,0,GAME,4.5,655145
+315,Rider,Games,4.30785,30050,GAME,4.5,655067
+316,Rider,Games,4.30785,30050,GAME,4.5,655145
+317,Maleficent Free Fall,Games,4.60691,10237,FAMILY,4.4,450013
+318,Endless Numbers,Education,4.34848,792,FAMILY,4.4,2952
+319,RightNow English Conversation,Education,5.0,2,FAMILY,4.0,5118
+320,Master E.K,Education,0.0,0,FAMILY,5.0,90
+321,Endless Ducker,Games,4.22179,1037,GAME,4.5,8193
+322,USMLE Step 2 CK Flashcards,Education,5.0,2,FAMILY,5.0,1
+323,Airplane Fly Hawaii,Games,4.32617,791,FAMILY,4.1,83427
+324,Google Arts & Culture,Education,4.68651,133716,FAMILY,3.7,24137
+325,Google Classroom,Education,1.51968,2113858,EDUCATION,4.2,69493
+326,Google Classroom,Education,1.51968,2113858,EDUCATION,4.2,69498
+327,AJ Jump: Animal Jam Kangaroos!,Games,3.49254,201,GAME,4.4,2975
+328,Piano Kids - Music & Songs,Entertainment,2.0,1,FAMILY,4.6,46741
+329,Injustice 2,Games,4.64736,129891,GAME,4.3,504765
+330,Injustice: Gods Among Us,Games,4.75551,186198,GAME,4.4,2440877
+331,PBA® Bowling Challenge,Games,4.65143,92199,SPORTS,4.3,242096
+332,Digg,News,1.56028,564,NEWS_AND_MAGAZINES,3.9,6105
+333,DK Quiz,Games,4.43356,143,GAME,4.4,1628
+334,DK Virtual Reality,Reference,3.5,10,FAMILY,3.7,42
+335,AK Math Coach,Education,5.0,1,FAMILY,3.6,283
+336,Flybook,Shopping,0.0,0,BOOKS_AND_REFERENCE,3.9,1778
+337,Bible with EGW Comments,Reference,3.86391,169,BOOKS_AND_REFERENCE,4.7,3776
+338,Chenoweth AH,Business,2.5,2,MEDICAL,5.0,1
+339,English Dictionary - Offline,Reference,4.29847,392,BOOKS_AND_REFERENCE,4.4,341157
+340,English Dictionary - Offline,Reference,4.29847,392,BOOKS_AND_REFERENCE,4.4,341234
+341,Al Jazeera English,News,4.14688,1171,NEWS_AND_MAGAZINES,4.1,24456
+342,Al Mayadeen,News,3.80198,101,NEWS_AND_MAGAZINES,4.7,13620
+343,RoboPad,Education,0.0,0,FAMILY,4.6,41
+344,Inside Out Thought Bubbles,Games,4.0279,6343,FAMILY,4.4,623398
+345,Episode - Choose Your Story,Games,4.67598,2334130,GAME,4.3,1841061
+346,Episode - Choose Your Story,Games,4.67598,2334130,FAMILY,4.3,1842381
+347,Equestria Girls,Games,4.08025,2106,FAMILY,4.3,392596
+348,Equestria Girls,Games,4.08025,2106,FAMILY,4.3,392819
+349,Learn to Speak English,Education,4.55556,18,EDUCATION,4.4,33646
+350,Thumbnail Maker,Business,4.55802,2783,PHOTOGRAPHY,4.4,26252
+351,Pinkalicious Party,Games,3.02857,35,FAMILY,3.0,2
+352,ES Remote,Entertainment,2.24561,57,FAMILY,3.3,707
+353,Helix,Games,3.92632,95,GAME,3.9,2454
+354,Helix,Games,4.65517,29,GAME,3.9,2454
+355,Helix,Medical,5.0,2,GAME,3.9,2454
+356,FC Barcelona Official App,Sports,4.74844,3375,SPORTS,4.6,92522
+357,Mandala Coloring Book,Entertainment,3.06061,33,ART_AND_DESIGN,4.6,4326
+358,Planning Center Services,Business,3.809,1089,PRODUCTIVITY,4.3,5157
+359,Batmobile™ R/C Controller,Entertainment,2.60241,166,FAMILY,3.7,452
+360,DQT GPS,Business,5.0,2,BUSINESS,4.0,3
+361,DIRECTV,Entertainment,4.71476,1172393,FAMILY,4.1,235486
+362,Roll Call News,News,2.88889,18,NEWS_AND_MAGAZINES,3.7,24
+363,Battleheart Legacy,Games,4.68377,857,FAMILY,4.6,7420
+364,Bloomberg Professional,Finance,3.6988,332,FINANCE,4.1,3334
+365,Investigation Discovery GO,Entertainment,4.76539,37855,ENTERTAINMENT,4.5,12216
+366,Lily & Leo - Crazy Circus Day,Games,4.0,25,FAMILY,3.6,8091
+367,DreamTrips,Travel,4.68649,555,TRAVEL_AND_LOCAL,4.7,9971
+368,Disaster Will Strike,Games,4.48276,58,FAMILY,4.5,14692
+369,IQ Test,Utilities,0.0,0,PRODUCTIVITY,4.2,1623
+370,IQ Test,Games,0.0,0,PRODUCTIVITY,4.2,1623
+371,Wordscapes,Games,4.86505,660940,GAME,4.8,230710
+372,Wordscapes,Games,4.86505,660940,GAME,4.8,230727
+373,Wordscapes,Games,4.86505,660940,GAME,4.8,230849
+374,Dr. Panda Art Class,Education,3.75,16,FAMILY,4.2,1013
+375,Dr. Panda Farm,Education,3.95833,48,FAMILY,4.1,265
+376,Dr. Panda Hospital,Education,4.01835,109,FAMILY,4.4,1091
+377,Dr. Panda Restaurant 2,Education,4.04087,318,FAMILY,4.3,3725
+378,Dr. Panda Restaurant 3,Education,3.99181,1221,FAMILY,4.2,11126
+379,Dr. Panda Supermarket,Education,4.06329,79,FAMILY,4.2,1357
+380,Dr. Panda Town: Vacation,Education,4.10553,1990,FAMILY,3.8,10366
+381,Dr. Parking 4,Games,4.25908,1513,GAME,4.4,475369
+382,Graphing Calculator,Education,0.0,0,TOOLS,3.9,12388
+383,Graphing Calculator,Education,4.26667,15,TOOLS,3.9,12388
+384,PES CLUB MANAGER,Games,4.28067,3627,SPORTS,4.4,783025
+385,Be My Princess: PARTY,Games,4.72692,260,FAMILY,4.4,9443
+386,Disney Magic Timer by Oral-B,Health & Fitness,4.43262,9595,FAMILY,3.9,31061
+387,CB Outdoors,Education,2.0,4,FAMILY,3.8,5
+388,FoothillsVet,Business,4.0,4,MEDICAL,5.0,2
+389,GRE Prep & Practice by Magoosh,Education,4.82426,9258,EDUCATION,4.4,3963
+390,Draw a Stickman: EPIC Free,Games,4.35048,836,GAME,4.2,210317
+391,CCHT PREP,Medical,4.24138,174,MEDICAL,3.6,25
+392,Cisco Webex Meetings,Business,4.32043,243500,BUSINESS,4.4,108741
+393,DS finder,Utilities,2.71429,63,TOOLS,4.0,2596
+394,Fidget Spinner,Entertainment,4.29167,24,GAME,4.2,307398
+395,Fidget Spinner,Games,4.26663,4857,GAME,4.2,307398
+396,CE Broker,Education,4.77478,15212,FAMILY,3.7,190
+397,DT Fieldlink,Business,2.6,5,BUSINESS,3.0,2
+398,Lufthansa,Travel,4.70134,21691,TRAVEL_AND_LOCAL,3.6,14544
+399,CEHQ - CE Credits for Nurses,Education,3.63636,11,FAMILY,4.5,12
+400,GRE® Flashcards by Kaplan,Education,2.4,15,EDUCATION,4.0,316
+401,Figment AR,Photo & Video,4.31818,22,FAMILY,3.7,22
+402,Beauty and the Beast,Games,0.0,0,FAMILY,4.4,70883
+403,Beauty Idol: Fashion Queen,Games,3.77778,81,GAME,4.3,128367
+404,Photo Editor,Photo & Video,4.62294,41969,PHOTOGRAPHY,4.3,42079
+405,Photo Editor,Photo & Video,4.62294,41969,PHOTOGRAPHY,4.1,114680
+406,DW Security,Business,0.0,0,BUSINESS,5.0,6
+407,Photo Editor-,Photo & Video,4.66186,229129,PHOTOGRAPHY,4.3,68070
+408,Photo Editor-,Photo & Video,4.66186,229129,PHOTOGRAPHY,4.3,68071
+409,CL e-bank,Finance,2.0,4,FINANCE,4.0,210
+410,Escape the Prison Room,Games,3.2,135,FAMILY,3.5,113183
+411,Florida Tech Mobile,Education,4.2,10,FAMILY,3.8,87
+412,Florida Wildflowers,Education,5.0,6,FAMILY,5.0,5
+413,DW VMAX,Business,2.30208,96,TOOLS,3.4,843
+414,DW Witness,Business,5.0,9,BUSINESS,4.0,6
+415,DX,Business,2.0,16,SHOPPING,3.1,6697
+416,Fr Agnel Ambarnath,Education,0.0,0,FAMILY,4.2,117
+417,Fr Agnel Pune,Education,0.0,0,FAMILY,4.1,80
+418,Dynamics AX,Business,1.5625,16,BUSINESS,3.7,244
+419,Kingdoms at War: Hardcore PVP,Games,3.58671,692,FAMILY,4.3,34898
+420,DJ Electro Mix Pad,Music,5.0,1,FAMILY,3.9,53301
+421,Henry Danger Crime Warp,Games,4.29134,508,FAMILY,4.6,9626
+422,Guardians of Ancora,Games,4.23008,113,FAMILY,4.4,969
+423,Boomerang,Business,0.0,0,FAMILY,4.2,13519
+424,All Maths Formulas,Education,0.0,0,BOOKS_AND_REFERENCE,4.4,2709
+425,DL Hughley,Entertainment,4.2,5,FAMILY,4.6,12
+426,PhotoFunia,Photo & Video,4.80478,4646,PHOTOGRAPHY,4.3,316378
+427,Hero Hunters,Games,4.814,53413,GAME,4.4,70747
+428,Do Not Crash,Games,4.36742,264,FAMILY,3.7,56664
+429,English To Shona Dictionary,Education,0.0,0,BOOKS_AND_REFERENCE,4.6,60
+430,Dumb Ways to Die 2: The Games,Games,4.5728,23488,FAMILY,4.2,1671658
+431,Heroes of Order & Chaos,Games,4.36262,2606,FAMILY,4.2,690148
+432,All Events in City,Entertainment,4.53221,357,EVENTS,4.0,3782
+433,Posta App,Business,0.0,0,MAPS_AND_NAVIGATION,3.6,8
+434,DV ASSIST,Education,5.0,1,FAMILY,5.0,1
+435,FindLoving,Social Networking,4.79487,117,DATING,3.8,24
+436,Foothills CP,Lifestyle,5.0,5,FAMILY,5.0,4
+437,Does not Commute,Games,4.34195,3290,GAME,4.0,154108
+438,DW Audio,Education,5.0,6,FAMILY,4.9,38
+439,Box,Business,0.0,0,BUSINESS,4.2,159872
+440,Gun Disassembly 2,Entertainment,3.25862,58,FAMILY,4.1,26347
+441,Gun Disassembly 2,Entertainment,0.0,0,FAMILY,4.1,26347
+442,Hidden Camera Detector,Utilities,3.56796,1317,TOOLS,3.9,167
+443,BP World Energy,Business,5.0,1,BUSINESS,3.4,25
+444,Klix.ba,News,2.55555,9,NEWS_AND_MAGAZINES,4.0,3647
+445,Knife Hit,Games,4.62937,62483,GAME,4.5,461137
+446,Knife Hit,Games,4.62937,62483,GAME,4.5,462614
+447,Knightfall™ AR,Entertainment,4.3139,446,FAMILY,4.2,254
+448,AJ Bell Youinvest,Finance,4.89286,28,FINANCE,2.8,135
+449,Alphabet A-Z,Education,0.0,0,FAMILY,3.9,306
+450,CH info,Reference,0.0,0,NEWS_AND_MAGAZINES,3.9,45
+451,LOL Pics (Funny Pictures),Entertainment,4.45645,2388,ENTERTAINMENT,4.4,67554
+452,Brandon Lakes AH,Business,3.0,2,MEDICAL,2.6,5
+453,Bejeweled Blitz,Games,3.07444,9202,FAMILY,4.2,222664
+454,Bejeweled Classic,Games,4.60391,104610,FAMILY,4.4,203101
+455,Homework Planner,Education,4.16667,6,EDUCATION,4.0,2525
+456,Fishdom,Games,4.642,656378,GAME,4.6,2157930
+457,Fishdom,Games,4.642,656378,GAME,4.6,2158580
+458,Doodle Jump,Games,4.22946,645,GAME,4.3,1083571
+459,Geometry Dash Lite,Games,4.38232,63539,GAME,4.5,6181640
+460,Geometry Dash World,Games,4.47004,29959,GAME,4.6,760628
+461,Geometry Dash World,Games,4.47004,29959,GAME,4.6,759838
+462,High School Simulator 2017,Games,3.79273,3551,FAMILY,4.2,123136
+463,Pineapple Pen,Games,4.28829,5987,GAME,4.3,157264
+464,Get 'Em,Games,3.93069,101,GAME,4.1,7904
+465,Amazon Prime Video,Entertainment,4.7896,2498603,ENTERTAINMENT,4.2,411683
+466,ESS Mobile for AE,Business,1.7368400000000002,19,PRODUCTIVITY,1.9,63
+467,Hill Climb Racing,Games,4.61505,48539,GAME,4.4,8923587
+468,Hill Climb Racing,Games,4.61505,48539,GAME,4.4,8923818
+469,Hill Climb Racing,Games,4.61505,48539,GAME,4.4,8923847
+470,Hill Climb Racing,Games,4.61505,48539,GAME,4.4,8921451
+471,Hill Climb Racing 2,Games,4.63001,92276,GAME,4.6,2750410
+472,Hill Climb Racing 2,Games,4.63001,92276,GAME,4.6,2750645
+473,Dots & Co: A Puzzle Adventure,Games,4.5649,8035,FAMILY,4.5,81001
+474,Kung Fu Do Fighting,Games,4.5,4,GAME,4.0,271214
+475,British Airways,Travel,4.64368,52122,TRAVEL_AND_LOCAL,4.2,25740
+476,British Airways,Travel,4.64368,52122,TRAVEL_AND_LOCAL,4.2,25726
+477,Masha and the Bear: Evolution,Games,3.55556,9,FAMILY,4.5,2062
+478,Mass Effect: Andromeda APEX HQ,Games,3.75,44,GAME,3.4,4490
+479,AMC,Education,5.0,4,FAMILY,3.2,20843
+480,DR CONTROL,Entertainment,2.61111,18,FAMILY,3.4,267
+481,Dr. 2048,Games,0.0,0,FAMILY,3.9,1985
+482,Dr. Chess,Games,4.06757,222,GAME,4.1,97209
+483,Dr. Dominoes,Games,4.0,1,GAME,4.0,2700
+484,Dr. Driving,Games,4.30797,5101,GAME,4.5,4972230
+485,Dr. Driving 2,Games,4.48472,1898,GAME,4.6,358633
+486,Dr. Gomoku,Games,3.4,5,GAME,3.9,85317
+487,Dr. Panda & Toto's Treehouse,Entertainment,4.35365,82,FAMILY,4.4,3396
+488,Dr. Panda & Toto's Treehouse,Entertainment,4.35365,82,FAMILY,4.4,3397
+489,Dr. Rocket,Games,4.4074,54,GAME,4.0,42182
+490,Dr. Shogi,Games,0.0,0,GAME,3.3,19291
+491,Dr. Sudoku,Games,0.0,0,FAMILY,3.5,2310
+492,EU FTL Calculator,Business,0.0,0,BUSINESS,3.6,60
+493,Dr. Unblock,Games,0.0,0,FAMILY,3.9,3847
+494,DR.MEEP,Games,4.38016,121,FAMILY,4.4,54
+495,Evolution: Battle for Utopia,Games,4.56623,302,FAMILY,4.2,246705
+496,DRAGON BALL LEGENDS,Games,4.80328,469698,GAME,4.6,337752
+497,DRAGON BALL LEGENDS,Games,4.80328,469698,GAME,4.6,337913
+498,DRAGON BALL LEGENDS,Games,4.80328,469698,GAME,4.6,338742
+499,DRAGON BALL Z DOKKAN BATTLE,Games,4.74716,151108,GAME,4.1,650114
+500,Exiled Kingdoms RPG,Games,4.58936,1410,FAMILY,4.6,49210
+501,PMHNP-BC Pocket Prep,Medical,4.78558,2122,MEDICAL,4.4,112
+502,Human Dx,Medical,4.7382,233,MEDICAL,4.8,6
+503,Allsetra B.V.,Business,0.0,0,BUSINESS,4.1,15
+504,BT MeetMe with Dolby Voice,Productivity,1.66667,72,COMMUNICATION,3.6,437
+505,BT Panorama,Finance,2.0,2,FINANCE,4.3,34
+506,Event Manager - AllEvents.in,Productivity,1.0,7,EVENTS,4.7,120
+507,Angry Birds Friends,Games,4.59259,69736,GAME,4.2,829753
+508,Bualuang mBanking,Finance,2.7037,27,FINANCE,4.0,48445
+509,Hollywood U: Rising Stars,Games,4.27811,2197,FAMILY,4.2,233588
+510,Draw Something Classic,Games,4.61521,91643,GAME,4.2,1092106
+511,Real DJ Simulator,Games,3.66667,6,FAMILY,4.0,68664
+512,European Solidarity Corps,Social Networking,5.0,2,SOCIAL,3.6,9
+513,Chegg Study - Homework Help,Education,4.7256,128380,EDUCATION,4.3,14700
+514,Angry Shark 2016,Games,4.25115,860,FAMILY,4.0,73185
+515,SAY-U,Entertainment,2.0,3,FAMILY,3.2,1011
+516,Pocket U ASW,Education,0.0,0,FAMILY,3.9,93
+517,Loop - Caribbean Local News,News,4.07692,13,NEWS_AND_MAGAZINES,4.0,4332
+518,Trello,Business,0.0,0,PRODUCTIVITY,4.5,72513
+519,Florida State Gameday,Sports,3.46774,62,SPORTS,4.7,1566
+520,Glow Hockey,Games,3.78202,367,GAME,4.1,1703479
+521,Bo's Bedtime Story,Education,5.0,1,FAMILY,4.2,13
+522,Bo's Dinnertime Story,Education,3.5,2,FAMILY,4.3,6
+523,Bo's School Day,Education,2.5,2,FAMILY,4.7,10
+524,Homescapes,Games,4.57785,1353514,GAME,4.6,3093358
+525,Homescapes,Games,4.57785,1353514,GAME,4.6,3093932
+526,Flow Free,Games,4.74746,108204,GAME,4.3,1295557
+527,Flow Free,Games,4.74746,108204,GAME,4.3,1295606
+528,Flow Free,Games,4.74746,108204,GAME,4.3,1295625
+529,Flow Free,Games,4.74746,108204,FAMILY,4.3,1295293
+530,Go,Games,0.0,0,PERSONALIZATION,4.6,89
+531,DreamStream By EL AL,Travel,2.625,16,TRAVEL_AND_LOCAL,3.4,595
+532,Drift Legends,Games,0.0,0,GAME,4.2,33788
+533,Animal Planet GO,Entertainment,4.71975,6348,ENTERTAINMENT,4.2,2442
+534,BURST Professionals,Business,4.35135,37,MEDICAL,4.5,11
+535,MetaTrader 4,Finance,4.79699,53097,FINANCE,4.6,260547
+536,MetaTrader 5,Finance,4.72361,11205,FINANCE,4.5,42410
+537,Gogo Vision (Biz Av),Travel,3.5,8,FAMILY,3.3,11
+538,Trimble Ag Mobile,Business,2.35293,17,PRODUCTIVITY,4.1,85
+539,SkyTest BU/GU Lite,Business,0.0,0,BUSINESS,2.9,28
+540,DS video,Entertainment,2.87222,180,VIDEO_PLAYERS,3.8,12443
+541,Meme Creator,Photo & Video,0.0,0,ENTERTAINMENT,4.2,38769
+542,Meme Generator,Entertainment,0.0,0,ENTERTAINMENT,4.6,3771
+543,DT-VR,Entertainment,0.0,0,FAMILY,3.8,25
+544,Google Play Movies & TV,Entertainment,2.7462,3420,VIDEO_PLAYERS,3.7,906384
+545,Anna.K Tarot,Entertainment,4.4,5,FAMILY,4.8,17
+546,GoPlus Cam,Photo & Video,2.09477,306,VIDEO_PLAYERS,3.5,3484
+547,EY Digi India Personal Tax,Business,0.0,0,BUSINESS,4.0,2
+548,EY Events,Business,3.16667,12,BUSINESS,2.5,31
+549,EY India Tax Insights,Business,0.0,0,BUSINESS,4.7,87
+550,Dude Perfect 2,Games,4.76319,32199,GAME,4.5,401425
+551,Dude Perfect 2,Games,4.76319,32199,GAME,4.5,401648
+552,Chess for Kids - Play & Learn,Games,4.70439,19441,FAMILY,4.1,3234
+553,BZ Reminder,Business,4.55999,25,BUSINESS,4.7,41625
+554,BZ Reminder PRO,Business,2.0,1,BUSINESS,4.8,726
+555,Chess School for Beginners,Games,4.61538,481,FAMILY,4.3,879
+556,Talking Tom & Ben News,Entertainment,4.47527,21707,FAMILY,4.4,1131937
+557,Talking Tom Cat,Entertainment,4.17713,64837,FAMILY,4.3,1838090
+558,Talking Tom Cat 2,Entertainment,4.29426,37447,FAMILY,4.3,3213548
+559,Netflix,Entertainment,3.76122,294682,ENTERTAINMENT,4.4,5456208
+560,Netflix,Entertainment,3.76122,294682,ENTERTAINMENT,4.4,5456599
+561,Netflix,Entertainment,3.76122,294682,ENTERTAINMENT,4.4,5456708
+562,Netflix,Entertainment,3.76122,294682,FAMILY,4.4,5453997
+563,Micro Fi,Education,4.25,4,FAMILY,3.7,39
+564,Microsoft Excel,Productivity,0.0,0,PRODUCTIVITY,4.5,1079491
+565,Microsoft Excel,Productivity,0.0,0,PRODUCTIVITY,4.5,1079616
+566,Microsoft Excel,Productivity,4.75685,684546,PRODUCTIVITY,4.5,1079491
+567,Microsoft Excel,Productivity,4.75685,684546,PRODUCTIVITY,4.5,1079616
+568,Microsoft Outlook,Productivity,0.0,0,PRODUCTIVITY,4.3,3252896
+569,Microsoft Outlook,Productivity,0.0,0,PRODUCTIVITY,4.3,3249518
+570,Microsoft PowerPoint,Productivity,0.0,0,PRODUCTIVITY,4.5,618798
+571,Microsoft PowerPoint,Productivity,0.0,0,PRODUCTIVITY,4.5,618796
+572,Microsoft PowerPoint,Productivity,4.71217,250380,PRODUCTIVITY,4.5,618798
+573,Microsoft PowerPoint,Productivity,4.71217,250380,PRODUCTIVITY,4.5,618796
+574,Microsoft Remote Desktop,Business,0.0,0,BUSINESS,4.2,97702
+575,Microsoft OneNote,Productivity,0.0,0,PRODUCTIVITY,4.4,480643
+576,Microsoft OneNote,Productivity,0.0,0,PRODUCTIVITY,4.4,480640
+577,Microsoft OneNote,Productivity,0.0,0,PRODUCTIVITY,4.4,480638
+578,EZ TAG Express,Travel,2.31999,75,TRAVEL_AND_LOCAL,3.2,86
+579,EZ Thanks,Business,3.1,30,BUSINESS,3.2,116
+580,EZ TV Player,Business,3.66667,3,VIDEO_PLAYERS,3.5,51
+581,Pixlr-o-matic,Photo & Video,3.7907,43,PHOTOGRAPHY,4.5,180697
+582,TAMAGO Monsters Returns,Games,4.41667,12,GAME,4.1,104583
+583,Dungeon Quest,Games,4.47825,207,FAMILY,4.5,244039
+584,Insightly CRM,Business,4.45228,241,BUSINESS,3.8,1383
+585,Seattle Sounders FC,Sports,4.75127,6477,SPORTS,3.3,974
+586,UFC,Sports,4.64002,18687,SPORTS,4.0,30840
+587,Microsoft Word,Productivity,0.0,0,PRODUCTIVITY,4.5,2084126
+588,Microsoft Word,Productivity,0.0,0,PRODUCTIVITY,4.5,2084125
+589,Microsoft Word,Productivity,0.0,0,PRODUCTIVITY,4.5,2078744
+590,Microsoft Word,Productivity,4.73967,1317398,PRODUCTIVITY,4.5,2084126
+591,Microsoft Word,Productivity,4.73967,1317398,PRODUCTIVITY,4.5,2084125
+592,Microsoft Word,Productivity,4.73967,1317398,PRODUCTIVITY,4.5,2078744
+593,Wallpapers HD,Entertainment,4.80952,42,PERSONALIZATION,4.6,484981
+594,Wallpapers HD,Graphics & Design,0.0,0,PERSONALIZATION,4.6,484981
+595,Wallpapers HD,Lifestyle,0.0,0,PERSONALIZATION,4.6,484981
+596,Commission Manager,Business,3.33333,3,PRODUCTIVITY,3.2,12
+597,Thomas & Friends: Go Go Thomas,Entertainment,4.48017,12256,FAMILY,4.1,175625
+598,Planet of Cubes Survival Craft,Games,4.54847,24838,FAMILY,3.9,475944
+599,Love Balls,Games,4.62348,543869,GAME,4.2,360630
+600,Love Balls,Games,4.62348,543869,FAMILY,4.2,357049
+601,Love Balls,Games,0.0,0,GAME,4.2,360630
+602,Love Balls,Games,0.0,0,FAMILY,4.2,357049
+603,Notepad,Utilities,2.59829,117,PRODUCTIVITY,4.2,80581
+604,Plants vs. Zombies™ 2,Games,4.73524,394063,FAMILY,4.4,567632
+605,Plants vs. Zombies™ Heroes,Games,4.69607,98073,FAMILY,4.4,379415
+606,Plants vs. Zombies™ Heroes,Games,4.69607,98073,FAMILY,4.4,379245
+607,Mind Games Pro,Education,4.72828,1715,FAMILY,4.6,15301
+608,Carnivores: Dinosaur Hunter,Games,4.22757,1762,GAME,4.2,62636
+609,Carrier Landings Pro,Games,4.59155,1065,FAMILY,4.6,5969
+610,King of Math,Education,4.689,2029,FAMILY,4.4,766
+611,Preschool All-In-One,Games,3.16667,12,FAMILY,4.1,9019
+612,Fortune Quest: Savior,Games,2.66667,3,FAMILY,3.6,135
+613,"News-Journal-Daytona Beach, FL",News,4.67785,149,NEWS_AND_MAGAZINES,4.5,76
+614,News24,News,0.0,0,NEWS_AND_MAGAZINES,4.1,30693
+615,Huji Cam,Photo & Video,4.21922,10774,PHOTOGRAPHY,4.4,40289
+616,Greeting Cards & Wishes,Entertainment,4.71878,73166,SOCIAL,4.5,17350
+617,Cartoon Network App,Entertainment,3.86736,19286,VIDEO_PLAYERS,4.0,119202
+618,Cartoon Network App,Entertainment,3.86736,19286,FAMILY,4.0,119173
+619,Cartoon Wars: Blade,Games,4.55684,3299,GAME,4.4,165656
+620,NFL,Sports,4.61782,393746,SPORTS,4.1,459795
+621,NFL,Sports,4.61782,393746,SPORTS,4.1,459797
+622,CompTIA A+ Pocket Prep,Education,4.64623,1272,FAMILY,4.3,1311
+623,Hungry Shark Evolution,Games,4.7088,126129,GAME,4.5,6074334
+624,Hungry Shark Evolution,Games,4.7088,126129,GAME,4.5,6074627
+625,Hungry Shark Evolution,Games,4.7088,126129,GAME,4.5,6071542
+626,Hungry Shark World,Games,4.75813,387288,GAME,4.5,1242855
+627,Hungry Shark World,Games,4.75813,387288,GAME,4.5,1243017
+628,NHL,Sports,4.71648,81881,SPORTS,4.0,68935
+629,NHL,Utilities,0.0,0,SPORTS,4.0,68935
+630,PlayStation App,Entertainment,4.49898,63375,ENTERTAINMENT,4.2,613059
+631,Nick,Entertainment,2.7941000000000003,15517,ENTERTAINMENT,4.2,123279
+632,Nick,Entertainment,2.7941000000000003,15517,FAMILY,4.2,123322
+633,Nick,Entertainment,2.7941000000000003,15517,FAMILY,4.2,123309
+634,AP Art History Flashcards,Education,1.0,2,FAMILY,5.0,1
+635,Casino AZ/Talking Stick Resort,Travel,3.30556,36,TRAVEL_AND_LOCAL,4.3,201
+636,AP Government Review,Education,3.2,5,FAMILY,4.7,3
+637,Universal Kids,Entertainment,3.75134,559,ENTERTAINMENT,3.6,1968
+638,Universal Kids,Lifestyle,0.0,0,ENTERTAINMENT,3.6,1968
+639,Socrative Teacher,Education,3.13043,23,EDUCATION,3.9,1239
+640,DV KING,Entertainment,1.0,1,PHOTOGRAPHY,3.0,2
+641,DV KING 4K,Entertainment,2.0,23,PHOTOGRAPHY,2.3,3
+642,Ninja Dash - Ronin Jump RPG,Games,4.78261,2599,FAMILY,4.7,8508
+643,BS Play,Education,5.0,1,FAMILY,3.7,56
+644,BS Play,Entertainment,0.0,0,FAMILY,3.7,56
+645,BET NOW - Watch Shows,Entertainment,3.33516,1462,ENTERTAINMENT,4.2,14807
+646,Propel BI APP,Business,3.66667,3,BUSINESS,5.0,3
+647,Waterfall Photo Frames,Photo & Video,5.0,2,PHOTOGRAPHY,4.5,10349
+648,BEYBLADE BURST app,Games,4.31717,15566,GAME,4.5,216849
+649,Mobile C [ C/C++ Compiler ],Education,4.25,100,FAMILY,4.3,4624
+650,Guess The Emoji,Games,4.48669,33699,GAME,4.5,76627
+651,BT Church,Lifestyle,5.0,8,LIFESTYLE,4.9,26
+652,BU Mobile,Education,2.0,32,FAMILY,4.5,472
+653,Bubble,Education,0.0,0,TOOLS,4.5,31621
+654,Bubble,Games,0.0,0,TOOLS,4.5,31621
+655,Bubble,Utilities,0.0,0,TOOLS,4.5,31621
+656,TO-FU Oh!SUSHI,Education,4.10219,274,FAMILY,4.1,59917
+657,Toca Builders,Education,4.18821,441,FAMILY,4.2,3328
+658,BGCN TV,Entertainment,3.66667,3,VIDEO_PLAYERS,3.4,4334
+659,Toca Kitchen 2,Education,4.19172,1836,FAMILY,4.5,1014822
+660,Toca Kitchen 2,Education,4.19172,1836,FAMILY,4.5,1014846
+661,Toca Kitchen 2,Education,4.19172,1836,FAMILY,4.5,1013465
+662,Toca Life: City,Education,4.49702,4040,EDUCATION,4.7,31085
+663,Toca Life: City,Education,4.49702,4040,FAMILY,4.7,31100
+664,Toca Life: Hospital,Education,4.36402,3096,EDUCATION,4.7,3528
+665,Toca Mystery House,Education,3.66947,357,FAMILY,4.2,96
+666,Fresh News,News,4.58333,12,NEWS_AND_MAGAZINES,4.4,2207
+667,Pokémon TV,Entertainment,4.73892,55335,FAMILY,4.2,117461
+668,Gun Club Armory,Games,3.14439,187,GAME,4.2,55014
+669,Intesa Sanpaolo Mobile,Finance,4.63852,1350,FINANCE,3.6,35518
+670,Korean Dungeon: K-Word 1000,Games,4.8205,195,GAME,4.7,703
+671,Korean English Translator,Reference,0.0,0,FAMILY,4.4,634
+672,Guns - Shot Sounds,Entertainment,3.5,2,FAMILY,3.8,29544
+673,Guns'n'Glory,Games,4.70863,556,FAMILY,4.4,89947
+674,Guns'n'Glory Premium,Games,4.80208,96,FAMILY,4.4,3570
+675,Police VAZ LADA Simulator,Games,2.71429,7,FAMILY,3.6,3502
+676,Mobile CS,Business,2.29999,10,BUSINESS,4.0,13
+677,PTA Content Master,Medical,4.85792,542,MEDICAL,4.2,64
+678,CBS Sports Fantasy,Sports,4.55652,194400,SPORTS,4.0,43611
+679,NPR One,News,3.04764,2855,NEWS_AND_MAGAZINES,3.9,13217
+680,Fruit Ninja Classic,Games,4.08326,1189,GAME,4.3,85468
+681,Fruit Ninja®,Games,4.66608,77248,GAME,4.3,5091448
+682,VH1,Entertainment,3.01317,3265,ENTERTAINMENT,4.1,27424
+683,Mobile TV,Business,1.90909,11,ENTERTAINMENT,3.5,10939
+684,Arrow.io,Games,3.62172,3085,GAME,4.5,343263
+685,Montessori Preschool,Education,4.22741,1649,FAMILY,3.9,237
+686,DW - Breaking World News,News,4.06395,172,NEWS_AND_MAGAZINES,4.4,17671
+687,Putzmeister Experts,Productivity,0.0,0,TOOLS,4.6,21
+688,DWWW 774 Ultimate AM Radio,Entertainment,4.76154,260,NEWS_AND_MAGAZINES,4.7,327
+689,Lire avec Sami et Julie,Education,0.0,0,FAMILY,3.6,569
+690,Video Player All Format,Entertainment,4.94255,644,VIDEO_PLAYERS,4.8,259003
+691,Video Player All Format,Entertainment,4.94255,644,VIDEO_PLAYERS,4.8,258277
+692,Shopkins World!,Games,4.63035,27688,FAMILY,4.3,169609
+693,Nyan Cat: Lost In Space,Games,4.75753,6706,GAME,4.5,371318
+694,Xbox,Entertainment,4.60369,824919,FAMILY,4.3,556659
+695,XCOM: TBG,Entertainment,3.61111,18,FAMILY,4.0,2294
+696,Rivals at War: 2084,Games,4.05747,261,FAMILY,4.0,174127
+697,Rivals at War: Firefight,Games,4.61327,768,GAME,4.4,344819
+698,Teeny Titans - Teen Titans Go!,Games,4.48915,2856,FAMILY,4.6,20463
+699,Yoong: Kick 'Em Up!,Games,5.0,1,SPORTS,4.3,7107
+700,BJ-UFO,Entertainment,3.26471,34,FAMILY,3.6,226
+701,Sisense Mobile BI,Business,3.18182,11,BUSINESS,4.9,23
+702,Asphalt 8: Airborne,Games,4.72478,184306,GAME,4.5,8389714
+703,Funny Jokes,Entertainment,2.32143,28,FAMILY,3.9,2505
+704,Funny Pics,Entertainment,4.55509,1679,ENTERTAINMENT,3.9,9941
+705,Spacecraft AR,Education,3.17647,17,FAMILY,4.4,83
+706,Temple Run,Games,4.41047,237909,GAME,4.3,4000433
+707,Temple Run 2,Games,4.51722,402011,GAME,4.3,8118609
+708,Temple Run 2,Games,4.51722,402011,GAME,4.3,8118937
+709,Temple Run 2,Games,4.51722,402011,GAME,4.3,8119151
+710,Temple Run 2,Games,4.51722,402011,GAME,4.3,8119154
+711,Temple Run 2,Games,4.51722,402011,GAME,4.3,8116142
+712,Bleacher Report Live,Sports,4.2745,51009,SPORTS,4.0,232
+713,Showtime Anytime,Entertainment,4.77724,103617,ENTERTAINMENT,3.7,18523
+714,Showtime Anytime,Entertainment,4.77724,103617,FAMILY,3.7,18522
+715,Zombie Hunter King,Games,4.5126,119,GAME,4.3,10306
+716,Zombie Hunter King,Games,4.5126,119,GAME,4.3,10354
+717,Zombie Hunter King,Games,4.5126,119,GAME,4.3,10493
+718,Zombie Hunter King,Games,4.5126,119,GAME,4.3,10538
+719,"FXNOW: Movies, Shows & Live TV",Entertainment,4.55548,70346,FAMILY,3.9,31552
+720,Attack the Light,Games,4.69477,3712,FAMILY,4.7,19209
+721,Zombie Tsunami,Games,4.3832,7393,GAME,4.4,4920817
+722,Zombie Tsunami,Games,4.3832,7393,GAME,4.4,4921122
+723,Zombie Tsunami,Games,4.3832,7393,GAME,4.4,4921451
+724,Zombie Tsunami,Games,4.3832,7393,GAME,4.4,4921409
+725,Zombie Tsunami,Games,4.3832,7393,GAME,4.4,4918776
+726,B R Telco FCU Mobile Banking,Finance,4.83831,1305,FINANCE,4.7,413
+727,D.L. Evans Bank Mobile Banking,Finance,4.80619,1161,FINANCE,4.3,85
+728,F&M Bank - EZ Banking,Finance,4.51563,320,FINANCE,3.9,49
+729,Auction Wars : Storage King,Games,4.01739,115,GAME,4.1,29062
+730,Slack,Business,3.93994,13754,BUSINESS,4.4,51507
+731,Slack,Business,3.93994,13754,BUSINESS,4.4,51510
+732,Chest Calculator for CR,Entertainment,4.0,6,FAMILY,3.9,14754
+733,Block Gun 3D: Call of Destiny,Games,3.60165,364,GAME,3.7,31883
+734,Texas HoldEm Poker Deluxe,Games,4.3457,755,GAME,4.5,396090
+735,Lake Michigan CU Mobile,Finance,3.03475,259,FINANCE,4.0,732
+736,Q Mobile Banking,Finance,4.85757,1664,FINANCE,4.7,460
+737,Roll the Ball® - slide puzzle,Games,4.61137,15879,GAME,4.5,1385093
+738,RollerCoaster Tycoon® Classic,Games,4.31257,2377,GAME,4.6,10795
+739,Chicken Invaders 3,Games,4.0,241,GAME,4.2,52390
+740,Calculator,Utilities,4.63183,59326,DATING,2.6,57
+741,Calculator,Utilities,4.63183,59326,TOOLS,4.3,40770
+742,Calculator,Productivity,0.0,0,DATING,2.6,57
+743,Calculator,Productivity,0.0,0,TOOLS,4.3,40770
+744,Calculator,Utilities,3.37273,220,DATING,2.6,57
+745,Calculator,Utilities,3.37273,220,TOOLS,4.3,40770
+746,CP Plus Showcase,Business,0.0,0,BUSINESS,4.3,236
+747,NB|AZ Business Mobile Banking,Finance,3.83019,53,FINANCE,4.1,44
+748,NB|AZ Mobile Banking,Finance,4.61712,1332,FINANCE,4.0,463
+749,Maps CU,Finance,4.74312,2869,FINANCE,3.5,256
+750,Arizona Mobile,Education,1.64706,17,FAMILY,4.3,285
+751,Netspend Skylight ONE,Finance,2.18947,380,FINANCE,3.9,1098
+752,Princess Coloring Book,Games,0.0,0,EDUCATION,4.5,9770
+753,Princess Coloring Book,Games,0.0,0,FAMILY,4.5,9779
+754,Chinese Chess / Co Tuong,Games,4.54605,152,GAME,4.2,6947
+755,Augment - 3D Augmented Reality,Business,4.46408,362,BUSINESS,4.1,25195
+756,HDFC Bank MobileBanking,Finance,2.94083,1031,FINANCE,4.2,208463
+757,Credit Sesame,Finance,4.7874,296591,FINANCE,4.3,25166
+758,Where's My Water?,Games,4.11674,1713,FAMILY,4.7,188740
+759,Choices: Stories You Play,Games,4.54971,189682,GAME,4.6,807338
+760,Choices: Stories You Play,Games,4.54971,189682,FAMILY,4.6,807155
+761,Hemnet,Lifestyle,4.77474,293,HOUSE_AND_HOME,3.6,4087
+762,Thuuz Sports,Sports,3.99291,141,SPORTS,4.5,5517
+763,Discover Mobile,Finance,4.851,3245698,FINANCE,4.6,87951
+764,Meritrust CU Mobile Banking,Finance,4.82839,5996,FINANCE,4.7,3661
+765,Inwestor mobile,Finance,5.0,2,FINANCE,3.2,124
+766,AW TeamUp,News,0.0,0,NEWS_AND_MAGAZINES,4.6,9
+767,Block! Hexa Puzzle™,Games,4.49213,41607,FAMILY,4.5,472247
+768,PS4 Second Screen,Entertainment,2.63306,3134,FAMILY,2.4,11773
+769,MJX H,Entertainment,3.47619,21,FAMILY,3.7,126
+770,MLB Ballpark,Sports,2.36353,1722,SPORTS,3.9,5510
+771,MLB Ballpark,Sports,2.36353,1722,SPORTS,3.9,5511
+772,Run Sausage Run!,Games,4.43814,55250,GAME,4.4,275447
+773,Run Sausage Run!,Games,4.43814,55250,GAME,4.4,276105
+774,AZ Lottery Players Club,Entertainment,2.09302,473,FAMILY,4.2,97
+775,Will it Crush?,Games,4.41758,46645,GAME,3.1,25825
+776,Rush,Games,4.6059,52786,GAME,4.6,260651
+777,Christella VoiceUp,Medical,4.29545,44,MEDICAL,4.1,38
+778,Alpha Bank CY,Finance,5.0,1,FINANCE,4.7,39
+779,EF-myHR,Finance,3.375,8,FINANCE,2.9,26
+780,Tech CU Card Manager,Finance,2.42857,7,FINANCE,1.0,2
+781,Tech CU Mobile Banking,Finance,4.76237,10445,FINANCE,4.5,853
+782,Siren Ringtones,Entertainment,4.45309,437,PERSONALIZATION,4.2,42190
+783,Wishbone - Compare Anything,Social Networking,3.61811,21548,SOCIAL,4.3,51569
+784,My EU,Education,4.5,2,FAMILY,3.8,4
+785,Tiny Archers,Games,4.37333,225,GAME,4.5,80678
+786,CI Capital - Dynamic,Finance,0.0,0,FINANCE,4.8,4
+787,Mobile Legends: Bang Bang,Games,4.59485,378977,GAME,4.4,8219586
+788,Tiny Defense,Games,4.75321,312,FAMILY,4.1,29387
+789,Sketchfab,Entertainment,3.59627,161,FAMILY,4.3,906
+790,Citi Mobile®,Finance,4.86892,2588063,FINANCE,4.0,78306
+791,My Budget Book,Finance,3.88235,17,FINANCE,4.7,19784
+792,Ríos de Fe,Lifestyle,5.0,5,LIFESTYLE,5.0,141
+793,Cinemark Theatres,Entertainment,4.86101,408319,ENTERTAINMENT,4.1,21867
+794,Citizens Bank - CB Mobile,Finance,3.0,4,FINANCE,4.8,6
+795,Citizens Bank Mobile Banking,Finance,4.64408,200477,FINANCE,4.1,15192
+796,My CW,Business,0.0,0,TOOLS,3.0,1
+797,Money Manager Expense & Budget,Finance,4.79223,3918,FINANCE,4.6,134564
+798,My Little Pony Rainbow Runners,Entertainment,4.49688,9318,FAMILY,4.3,33785
+799,My Little Pony: Harmony Quest,Entertainment,4.46035,21375,FAMILY,4.1,148295
+800,My Little Pony: Harmony Quest,Entertainment,4.46035,21375,FAMILY,4.1,148405
+801,My Little Princess : Stores,Education,4.52876,2243,FAMILY,4.3,169
+802,My Little Work – Garage,Games,3.8,10,FAMILY,4.3,560
+803,Bloons TD 5,Games,4.82275,79740,FAMILY,4.6,190086
+804,App Seguridad AV Villas,Finance,3.0,2,FINANCE,2.3,251
+805,Service CU Mobile Banking,Finance,4.78137,14426,FINANCE,4.7,6208
+806,Firefighters First CU,Finance,4.89618,4739,FINANCE,4.8,495
+807,MomentCam Cartoons & Stickers,Photo & Video,4.7895,1981,PHOTOGRAPHY,4.2,1260143
+808,My Study Life - School Planner,Education,4.69108,4192,EDUCATION,4.3,47847
+809,U by BB&T,Finance,4.82934,423130,FINANCE,4.3,16600
+810,U of I Community Credit Union,Finance,4.84357,2768,FINANCE,3.7,52
+811,UBA Mobile Banking,Finance,4.00393,4329,FINANCE,4.3,12185
+812,Exchange Bank - EB Mobile,Finance,4.80898,178,FINANCE,4.6,8
+813,Blur Image Background,Entertainment,3.0,2,PHOTOGRAPHY,3.9,129272
+814,Blur Image Background,Entertainment,3.0,2,PHOTOGRAPHY,3.9,129268
+815,BluTV,Entertainment,4.37188,1366,VIDEO_PLAYERS,3.9,28835
+816,Huntington Mobile,Finance,4.83585,169099,FINANCE,4.2,11264
+817,First Credit Union (AZ) Mobile,Finance,2.8717900000000003,39,FINANCE,3.5,100
+818,Crypto Tracker by BitScreener,Finance,4.74203,19351,FINANCE,4.7,396
+819,Co-Optima Mobile,Finance,4.58553,456,FINANCE,4.4,218
+820,Tom's Love Letters,Entertainment,4.33366,23188,FAMILY,4.1,705805
+821,First Hawaiian Bank Mobile,Finance,4.73888,11501,FINANCE,2.1,232
+822,EY TaxChat,Finance,4.70414,169,FINANCE,1.2,44
+823,Vector,Finance,5.0,3,GAME,4.4,3058687
+824,Vector,Health & Fitness,5.0,1,GAME,4.4,3058687
+825,Vector,Lifestyle,0.0,0,GAME,4.4,3058687
+826,ClassDojo,Education,4.84227,1889365,EDUCATION,4.4,148550
+827,ClassDojo,Education,4.84227,1889365,EDUCATION,4.4,148549
+828,ClassDojo,Education,4.84227,1889365,FAMILY,4.4,148536
+829,First Tech Federal CU,Finance,4.74116,35482,FINANCE,4.3,4290
+830,Walmart MoneyCard,Finance,4.07602,5814,FINANCE,4.2,6148
+831,MyScript Calculator,Productivity,4.39655,696,TOOLS,4.5,342336
+832,Banking Calculator,Finance,0.0,0,FINANCE,4.5,3704
+833,Banking Calculator,Utilities,0.0,0,FINANCE,4.5,3704
+834,Transfer,Finance,4.25662,604,FINANCE,4.1,31804
+835,Clash of Clans,Games,4.76029,1827601,GAME,4.6,44891723
+836,Clash of Clans,Games,4.76029,1827601,GAME,4.6,44893888
+837,Clash of Clans,Games,4.76029,1827601,FAMILY,4.6,44881447
+838,Clash Royale,Games,4.63143,1842876,GAME,4.6,23133508
+839,Clash Royale,Games,4.63143,1842876,GAME,4.6,23134775
+840,Clash Royale,Games,4.63143,1842876,GAME,4.6,23136735
+841,Clash Royale,Games,4.63143,1842876,FAMILY,4.6,23125280
+842,Commonwealth CU Go Mobile,Finance,3.47727,44,FINANCE,4.3,231
+843,Sotheby's International Realty,Business,2.875,8,LIFESTYLE,4.2,894
+844,Compass,Finance,0.0,0,MAPS_AND_NAVIGATION,4.3,286454
+845,Compass,Navigation,4.16471,85,MAPS_AND_NAVIGATION,4.3,286454
+846,Compass,Navigation,3.0,3,MAPS_AND_NAVIGATION,4.3,286454
+847,Tropical Financial CU,Finance,4.8471,3316,FINANCE,4.6,1231
+848,TrueMoney Wallet,Finance,3.575,120,FINANCE,4.4,199684
+849,BayPort CU Mobile Banking,Finance,4.8064,5682,FINANCE,4.7,2374
+850,Monument Valley 2,Games,4.42734,5754,GAME,4.6,9394
+851,PriorityONE Credit Union of Fl,Finance,4.82111,341,FINANCE,4.7,178
+852,Bee Mobile EG,Finance,3.38095,21,FINANCE,4.2,883
+853,CV Maker Pro,Business,3.33333,3,BUSINESS,3.7,113
+854,Star Chart,Education,4.57983,19397,FAMILY,4.3,128808
+855,Star Chart,Education,0.0,0,FAMILY,4.3,128808
+856,BombSquad Remote,Games,3.24409,381,GAME,4.1,13304
+857,Southwest Airlines,Travel,4.84724,4565266,TRAVEL_AND_LOCAL,3.9,24781
+858,Yahoo Finance,Finance,4.74242,449894,FINANCE,4.4,135952
+859,CVRIA,Reference,4.0,1,BUSINESS,4.7,68
+860,A&W Restaurants,Food & Drink,1.68794,141,FOOD_AND_DRINK,1.7,14
+861,CX North America,Business,4.375,16,BUSINESS,3.9,10
+862,USAA Mobile,Finance,4.82357,1396183,FINANCE,4.5,100997
+863,Moto Fighter 3D,Games,4.66667,6,GAME,3.9,85410
+864,Cyprus CU Mobile Banking,Finance,4.55227,746,FINANCE,3.4,295
+865,Township,Games,0.0,0,FAMILY,4.6,4451317
+866,Township,Games,4.71346,574695,FAMILY,4.6,4451317
+867,Toy Attack,Games,3.16107,149,GAME,4.2,3878
+868,Family Dollar,Shopping,4.76606,517544,SHOPPING,4.3,2588
+869,Smash Hit,Games,4.57043,82068,GAME,4.5,4147718
+870,Words With Friends Classic,Games,4.53045,58599,GAME,4.3,1704112
+871,AV High School District,Education,2.11764,34,FAMILY,3.5,91
+872,Boomerang Make and Race,Games,4.21898,274,FAMILY,4.4,281448
+873,Smashy Road: Arena,Games,4.11345,6082,GAME,4.3,45558
+874,Eat'n Park,Food & Drink,2.2987,77,LIFESTYLE,3.5,292
+875,CQ Mobile,Finance,0.0,0,FINANCE,2.7,36
+876,Traffic Racer,Games,4.30049,4882,GAME,4.5,5387639
+877,Traffic Racer,Games,4.30049,4882,GAME,4.5,5387781
+878,Avokiddo Emotions,Education,4.36171,2643,FAMILY,4.6,73
+879,AW Training,Education,2.0,1,FAMILY,4.6,11
+880,Soo Co-op Mobile Banking,Finance,4.7603,1214,FINANCE,4.5,159
+881,BI Mobile,Finance,0.0,0,FINANCE,4.4,337
+882,Snake VS Block,Games,4.50722,567599,GAME,4.2,422244
+883,Fast Tract Diet,Health & Fitness,3.51852,54,HEALTH_AND_FITNESS,4.4,35
+884,Southland CU,Finance,4.86794,1522,FINANCE,3.8,109
+885,TRANSFORMERS: Forged to Fight,Games,4.75697,52236,GAME,4.6,291941
+886,Delicious Recipes,Food & Drink,0.0,0,FOOD_AND_DRINK,4.7,129737
+887,Delicious Recipes,Lifestyle,0.0,0,FOOD_AND_DRINK,4.7,129737
+888,WSVN - 7 News Miami,News,4.79257,12298,NEWS_AND_MAGAZINES,4.5,3320
+889,Sprig by CO-OP,Finance,1.84615,52,FINANCE,2.9,252
+890,CT Checkout,Finance,5.0,3,FINANCE,5.0,1
+891,CU SoCal Mobile Banking,Finance,4.88042,14099,FINANCE,4.0,253
+892,Bitcoin Ticker Widget,Finance,0.0,0,FINANCE,4.6,25744
+893,WWE,Entertainment,3.66117,4855,ENTERTAINMENT,4.5,736864
+894,WWE,Entertainment,3.66117,4855,FAMILY,4.5,736824
+895,BP-Tech,Entertainment,0.0,0,FAMILY,3.2,12
+896,Baskin-Robbins,Food & Drink,4.15953,2896,FOOD_AND_DRINK,3.8,1103
+897,Standard Bank / Stanbic Bank,Finance,4.61233,2466,FINANCE,3.6,15247
+898,BL Mobile Banking,Finance,0.0,0,FINANCE,4.3,23
+899,The Tribez: Build a Village,Games,4.67178,26912,FAMILY,4.4,1852384
+900,Cy-Fair FCU Mobile Banking,Finance,4.80548,1131,FINANCE,4.7,439
+901,Avaya CX,Business,5.0,2,BUSINESS,4.4,21
+902,BM Wallet,Finance,2.55555,9,FINANCE,4.2,798
+903,BN Más Cerca de Usted,Finance,2.1,30,FINANCE,3.9,8185
+904,Trivia Crack,Games,4.55861,592961,GAME,4.5,6427773
+905,Calorie Counter by FatSecret,Health & Fitness,4.74559,7873,HEALTH_AND_FITNESS,4.4,229210
+906,Calorie Counter by FatSecret,Health & Fitness,4.74559,7873,HEALTH_AND_FITNESS,4.4,229214
+907,Stocks: Realtime Quotes Charts,Finance,4.6148,1716,FINANCE,4.5,16808
+908,Panera Bread,Food & Drink,4.9161,1080744,FOOD_AND_DRINK,4.2,10159
+909,Panera Bread,Food & Drink,4.9161,1080744,FOOD_AND_DRINK,4.2,10225
+910,Sufara.ba,Education,5.0,2,FAMILY,4.9,285
+911,Bricks n Balls,Games,4.28859,72601,GAME,4.4,30253
+912,Whataburger,Food & Drink,4.76374,153931,FOOD_AND_DRINK,4.5,5093
+913,True Skate,Games,3.80903,6802,SPORTS,4.4,129409
+914,Start Meeting,Business,4.11888,143,BUSINESS,4.1,308
+915,Tsuro - The Game of the Path,Games,4.60608,1249,FAMILY,4.7,2195
+916,BT Camera,Photo & Video,1.44444,9,PHOTOGRAPHY,3.3,1307
+917,MTV,Entertainment,4.28254,19862,ENTERTAINMENT,3.8,35279
+918,Zaatar w Zeit,Food & Drink,2.64286,28,FOOD_AND_DRINK,4.4,205
+919,Solitaire+,Games,0.0,0,GAME,4.6,11235
+920,Zagat,Food & Drink,4.04,75,TRAVEL_AND_LOCAL,3.1,2528
+921,E.G. Chess,Games,1.0,2,GAME,4.3,56
+922,E.G. Chess Free,Games,3.875,8,GAME,4.0,505
+923,G-Switch,Games,3.93333,15,GAME,3.8,4116
+924,G-Switch 2,Games,4.29412,68,GAME,4.4,12683
+925,G-Switch 3,Games,4.02667,75,GAME,4.6,3656
+926,Earn to Die 2,Games,4.67035,3889,GAME,4.6,1327265
+927,Earn to Die 2,Games,4.67035,3889,GAME,4.6,1327269
+928,Habbo - Virtual World,Games,3.55666,1306,FAMILY,3.8,159398
+929,I Am Innocent,Games,4.16296,9928,GAME,4.4,208501
+930,Galaxy Attack: Alien Shooter,Games,4.75643,402926,GAME,4.6,506275
+931,Galaxy Attack: Alien Shooter,Games,4.75643,402926,GAME,4.6,506593
+932,OpenRice,Food & Drink,4.04878,41,FOOD_AND_DRINK,3.6,14952
+933,I LOVE PASTA,Games,3.36242,149,FAMILY,4.0,83875
+934,Dine In CT - Food Delivery,Food & Drink,2.66667,15,SHOPPING,5.0,4
+935,Bubble Shooter Genies,Games,4.70227,2247,GAME,4.5,26985
+936,Allrecipes Dinner Spinner,Food & Drink,2.53538,1795,FOOD_AND_DRINK,4.5,61881
+937,Bubble Witch 2 Saga,Games,4.63731,42372,FAMILY,4.3,2838064
+938,HungerStation,Food & Drink,4.36093,91199,FOOD_AND_DRINK,3.8,22513
+939,Hangman,Games,0.0,0,FAMILY,4.4,23302
+940,MUTV - Manchester United TV,Sports,3.89976,1676,SPORTS,4.4,4549
+941,"Egg, Inc.",Games,4.78115,334764,FAMILY,4.7,580160
+942,Absolute RC Heli Simulator,Games,4.15625,32,SPORTS,3.9,654
+943,Bullet Force,Games,4.53048,51108,GAME,4.5,634159
+944,SweetLand — Family Board Game,Games,3.125,32,FAMILY,4.2,38
+945,MX Player,Entertainment,4.59844,5033,VIDEO_PLAYERS,4.5,6474426
+946,MX Player,Entertainment,4.59844,5033,VIDEO_PLAYERS,4.5,6474672
+947,MX Player,Entertainment,4.59844,5033,VIDEO_PLAYERS,4.5,6469179
+948,Identity V,Games,4.73316,92594,GAME,4.2,109263
+949,Recipe Keeper,Food & Drink,4.7214,5212,FOOD_AND_DRINK,4.4,1962
+950,Recipe Keeper,Food & Drink,0.0,0,FOOD_AND_DRINK,4.4,1962
+951,Domino's Pizza USA,Food & Drink,4.788,5019198,FOOD_AND_DRINK,4.7,1032935
+952,Gaydorado,Games,4.3651,2613,FAMILY,3.9,8419
+953,Gear.Club - True Racing,Games,4.35451,8578,GAME,4.4,140658
+954,Color Road,Games,5.0,1,GAME,4.1,84911
+955,My Emma :),Games,4.34248,7729,FAMILY,4.1,245839
+956,Soul Knight,Games,4.77759,85960,GAME,4.7,292164
+957,My Horse,Games,4.00071,2824,FAMILY,4.5,1333338
+958,DoorDash - Food Delivery,Food & Drink,4.76992,12517538,FOOD_AND_DRINK,4.5,104504
+959,My Little Pony AR Guide,Entertainment,3.09907,646,BOOKS_AND_REFERENCE,3.3,7993
+960,Chick-fil-A,Food & Drink,4.934,1947986,FOOD_AND_DRINK,4.3,28008
+961,Chick-fil-A,Food & Drink,4.934,1947986,FOOD_AND_DRINK,4.3,28009
+962,Chick-fil-A,Food & Drink,4.934,1947986,FOOD_AND_DRINK,4.3,27931
+963,DQ Texas,Food & Drink,4.7723,11691,FOOD_AND_DRINK,4.1,336
+964,Geometry Dash Meltdown,Games,4.72015,163015,GAME,4.6,1591129
+965,Geometry Dash SubZero,Games,4.54491,34670,GAME,4.6,260527
+966,Restaurant Finder,Food & Drink,3.0,9,TRAVEL_AND_LOCAL,4.1,12564
+967,BeyondMenu Food Delivery,Food & Drink,4.8041,108691,FOOD_AND_DRINK,4.7,51517
+968,BeyondMenu Food Delivery,Food & Drink,4.8041,108691,FOOD_AND_DRINK,4.7,51543
+969,Council Voting Calculator,Education,3.4,5,COMMUNICATION,3.9,33
+970,My Talking Angela,Games,4.38807,263010,GAME,4.5,9881829
+971,My Talking Angela,Games,4.38807,263010,GAME,4.5,9881908
+972,My Talking Angela,Games,4.38807,263010,GAME,4.5,9883367
+973,My Talking Angela,Games,4.38807,263010,FAMILY,4.5,9876369
+974,My Talking Pet,Entertainment,4.84382,151367,ENTERTAINMENT,4.6,6238
+975,My Talking Tom,Games,4.37941,246077,GAME,4.5,14891223
+976,My Talking Tom,Games,4.37941,246077,GAME,4.5,14892469
+977,My Talking Tom,Games,4.37941,246077,FAMILY,4.5,14885236
+978,My Tamagotchi Forever,Games,4.57861,20067,FAMILY,4.3,28735
+979,Fallout Shelter,Games,4.75501,353893,GAME,4.6,2719142
+980,Fallout Shelter,Games,4.75501,353893,FAMILY,4.6,2721923
+981,Comedy Central,Entertainment,3.17497,2869,ENTERTAINMENT,3.9,22378
+982,Au Bon Pain,Food & Drink,3.2,90,FOOD_AND_DRINK,3.7,70
+983,AdventureQuest Dragons,Games,4.19048,21,FAMILY,3.9,10114
+984,AE Air Hockey,Games,5.0,4,SPORTS,3.8,926
+985,AE Archer,Games,4.68421,76,SPORTS,3.9,8638
+986,AE Basketball,Games,1.33333,3,SPORTS,4.0,8100
+987,AE Master Moto,Games,4.5,20,GAME,4.0,17876
+988,AE Roundy POP,Games,4.79688,64,FAMILY,4.4,5262
+989,SuperLivePro,Business,3.1751,2353,BUSINESS,4.3,46353
+990,CP Channel,Health & Fitness,4.85714,7,FAMILY,4.6,7
+991,Dash Tag - Fun Endless Runner!,Games,4.39851,2946,FAMILY,4.5,6750
+992,R-TYPE II,Games,3.54167,24,GAME,4.3,5682
+993,BJ’s Mobile App,Food & Drink,4.15011,7208,SHOPPING,4.0,4722
+994,EP Chain Reaction,Games,1.0,1,FAMILY,3.9,249
+995,EP Gem Hunter,Games,5.0,1,GAME,4.6,79
+996,Age of Procreation DX,Games,5.0,5,FAMILY,4.3,1894
+997,Paint Hit,Games,4.0,1,GAME,4.4,37023
+998,Questland: Turn Based RPG,Games,4.791,22062,FAMILY,4.6,31134
+999,Bad Piggies,Games,4.20713,3143,FAMILY,4.3,1168959
+1000,Bad Piggies HD,Games,4.24369,2815,FAMILY,4.4,764967
+1001,Oddworld: New 'n' Tasty,Games,4.80844,1112,GAME,4.6,1475
+1002,Racing in Car 2,Games,4.23165,613,GAME,4.3,234110
+1003,Racing in Car 2,Games,4.23165,613,GAME,4.3,234589
+1004,Svenska Dagbladet,News,4.66667,66,NEWS_AND_MAGAZINES,2.6,820
+1005,Connect'Em,Games,4.42856,7,FAMILY,4.5,49381
+1006,Helix Jump,Games,4.59586,1446845,GAME,4.2,1497361
+1007,Helix Jump,Games,4.59586,1446845,GAME,4.2,1498648
+1008,Helix Jump,Games,4.59586,1446845,GAME,4.2,1499373
+1009,Helix Jump,Games,4.59586,1446845,GAME,4.2,1500999
+1010,Helix Jump,Games,4.59586,1446845,GAME,4.2,1500622
+1011,Helix Jump,Games,4.59586,1446845,GAME,4.2,1485806
+1012,Offroad Car G,Games,3.76056,71,FAMILY,4.3,64884
+1013,Offroad Car Q,Games,3.52632,19,FAMILY,4.1,24668
+1014,Farming Simulator 18,Games,4.26901,1736,GAME,4.5,18125
+1015,Baldur's Gate II,Games,0.0,0,FAMILY,4.3,5442
+1016,Quiz for Clash Royale™,Games,4.42593,54,FAMILY,4.0,3788
+1017,Offroad Cruiser,Games,3.68421,38,FAMILY,4.3,42432
+1018,Offroad Outlaws,Games,4.54448,48441,GAME,4.4,29168
+1019,Offroad Police Car DE,Games,4.29545,44,FAMILY,4.3,9149
+1020,Mad Skills BMX 2,Games,4.70608,27041,GAME,4.5,29940
+1021,Candy Crush Jelly Saga,Games,4.50887,39639,GAME,4.3,1300490
+1022,Candy Crush Jelly Saga,Games,4.50887,39639,GAME,4.3,1300619
+1023,Candy Crush Soda Saga,Games,4.71657,499730,GAME,4.4,6198563
+1024,Candy Crush Soda Saga,Games,4.71657,499730,GAME,4.4,6198880
+1025,Candy Crush Soda Saga,Games,4.71657,499730,GAME,4.4,6199095
+1026,Santa Panda Bubble Christmas,Games,0.0,0,GAME,4.1,101
+1027,CS Interview FAQs,Education,0.0,0,FAMILY,4.3,99
+1028,Hero Fighter X,Games,4.60092,218,GAME,4.5,24210
+1029,Range Master: Sniper Academy,Games,4.37772,1149,SPORTS,4.1,91935
+1030,Heroes of Dragon Age,Games,4.4966,2356,GAME,4.2,70389
+1031,CT Abdomen,Education,0.0,0,FAMILY,4.3,7
+1032,CT Abdomen Pelvis,Medical,1.5,2,MEDICAL,4.0,36
+1033,CT Cervical Spine,Medical,2.0,1,MEDICAL,5.0,5
+1034,CT Neck,Medical,2.0,1,MEDICAL,4.4,7
+1035,Synology Drive,Productivity,3.13986,143,PRODUCTIVITY,3.2,368
+1036,U-Craft Mobile,Games,3.66667,156,FAMILY,4.2,11404
+1037,Once Upon a Tower,Games,4.66296,2528,GAME,4.7,37139
+1038,Foursquare City Guide,Food & Drink,4.13889,1872,FOOD_AND_DRINK,4.1,483960
+1039,Z Day: Hearts of Heroes,Games,4.18218,6049,FAMILY,3.9,5894
+1040,Lanterns: The Harvest Festival,Games,4.50633,79,FAMILY,4.7,185
+1041,Fatal Raid - No.1 Mobile FPS,Games,4.54479,547,GAME,4.3,56496
+1042,Fate/Grand Order (English),Games,4.46821,11659,GAME,4.4,16601
+1043,Yaoi Ooku: Distorted Love,Games,3.33962,53,FAMILY,4.0,2614
+1044,Girls' Frontline,Games,4.51793,1952,GAME,4.2,2055
+1045,XCOM®: Enemy Within,Games,4.32914,5010,FAMILY,4.2,13752
+1046,Akinator,Entertainment,4.54985,113532,FAMILY,4.3,1805398
+1047,Spectrum TV,Entertainment,4.65665,247932,ENTERTAINMENT,3.4,46618
+1048,Last Day on Earth: Survival,Games,4.54385,63594,GAME,4.5,2311785
+1049,Last Day on Earth: Survival,Games,4.54385,63594,GAME,4.5,2308916
+1050,Speed Racing Ultimate 2,Games,3.8,5,GAME,4.1,66894
+1051,Fernanfloo,Games,4.75024,1033,GAME,4.8,526595
+1052,Vegas Crime Simulator,Games,3.67059,170,FAMILY,4.2,721646
+1053,Eternium,Games,4.85046,50285,FAMILY,4.8,1506783
+1054,Talking Tom Gold Run,Games,4.54947,445650,GAME,4.6,2698348
+1055,Talking Tom Gold Run,Games,4.54947,445650,GAME,4.6,2698882
+1056,Talking Tom Gold Run,Games,4.54947,445650,GAME,4.6,2698889
+1057,Talking Tom Gold Run,Games,4.54947,445650,GAME,4.6,2694969
+1058,Fields of Battle,Games,4.26667,465,GAME,4.1,71476
+1059,Simple Recipes,Health & Fitness,0.0,0,FOOD_AND_DRINK,4.7,3803
+1060,European War 6: 1804,Games,4.50986,3499,FAMILY,4.2,1330
+1061,FIFA Soccer,Games,4.58084,374229,SPORTS,4.2,3909032
+1062,Zombie Frontier,Games,3.3,80,GAME,4.2,326689
+1063,Tank Stars,Games,4.4572,131884,GAME,4.3,174755
+1064,Kick the Buddy,Games,4.61934,911944,GAME,4.3,1000417
+1065,Kick the Buddy,Games,4.61934,911944,GAME,4.3,1003269
+1066,Kick the Buddy,Games,4.61934,911944,GAME,4.3,1004709
+1067,ScorePal,Games,4.04167,96,TOOLS,4.5,1439
+1068,Vikings: an Archer's Journey,Games,4.53211,436,GAME,4.5,10256
+1069,FINAL FANTASY BRAVE EXVIUS,Games,4.56444,28444,GAME,4.6,745684
+1070,FINAL FANTASY DIMENSIONS,Games,3.83699,319,FAMILY,4.3,8450
+1071,Going Abroad,Travel,0.0,0,FAMILY,3.0,606
+1072,Online Soccer Manager (OSM),Games,4.69678,46154,SPORTS,4.5,1312936
+1073,Real Basketball,Games,4.65746,95677,SPORTS,4.5,1605267
+1074,NBA LIVE Mobile Basketball,Games,4.66582,434885,SPORTS,4.4,1690802
+1075,Destroy Gunners Σ,Games,4.4,5,GAME,4.4,10786
+1076,Final Fantasy XV: A New Empire,Games,3.98924,39881,GAME,4.0,484981
+1077,Final Fantasy XV: A New Empire,Games,3.98924,39881,FAMILY,4.0,484858
+1078,War and Order,Games,4.53975,35587,GAME,4.3,224514
+1079,Company Kitchen,Food & Drink,2.27419,124,LIFESTYLE,2.8,81
+1080,My CookBook (Recipe Manager),Food & Drink,2.5,38,FOOD_AND_DRINK,4.5,22071
+1081,Real City Car Driver,Games,3.66667,3,GAME,3.7,413609
+1082,Deus Ex GO,Games,4.68333,600,FAMILY,4.5,9699
+1083,Banana Kong,Games,4.62449,15656,GAME,4.4,3452530
+1084,Sport Car Simulator,Games,3.66667,3,FAMILY,4.0,48731
+1085,Jump'N'Shoot Attack,Games,4.19643,56,GAME,4.1,155
+1086,Cardinal Quest 2,Games,4.86557,982,FAMILY,4.4,19207
+1087,Baseball Boy!,Games,4.473,444752,GAME,3.4,148177
+1088,Ultimate Tennis,Games,4.41503,1583,SPORTS,4.3,183004
+1089,Out There Chronicles - Ep. 1,Games,4.17284,81,FAMILY,4.4,1516
+1090,Out There Chronicles - Ep. 2,Games,5.0,26,FAMILY,4.5,144
+1091,Squadron - Bullet Hell Shooter,Games,4.58564,181,GAME,4.2,177542
+1092,Red Ball 4,Games,4.68022,3049,GAME,4.4,1432447
+1093,Basketball Dynasty Manager 16,Games,4.28889,45,SPORTS,4.4,426
+1094,We Bare Bears Match3 Repairs,Games,4.82599,10322,FAMILY,4.7,39153
+1095,Red Hands – 2-Player Games,Games,2.625,8,GAME,4.2,93608
+1096,Burger King Italia,Food & Drink,4.33333,6,LIFESTYLE,4.0,4160
+1097,Fire Emblem Heroes,Games,4.77141,113401,FAMILY,4.6,407694
+1098,Grand Theft Auto V: The Manual,Games,3.85147,3225,FAMILY,4.1,182103
+1099,Granny,Games,4.37987,76477,GAME,4.5,1135631
+1100,Granny,Games,4.37987,76477,GAME,4.5,1137271
+1101,Granny,Games,4.37987,76477,GAME,4.5,1137267
+1102,Granny,Games,4.37987,76477,GAME,4.5,1138239
+1103,Granny,Games,4.37987,76477,GAME,4.5,1128805
+1104,Just Dance Now,Games,4.53027,53356,GAME,4.2,794058
+1105,Undead Assault,Games,4.03704,27,GAME,4.3,4704
+1106,Crossy Road,Games,4.66109,450017,GAME,4.5,4230886
+1107,Crossy Road,Games,4.66109,450017,GAME,4.5,4229977
+1108,Cartoon Wars 3,Games,3.01312,1982,FAMILY,4.1,137674
+1109,King of Avalon: Dragon Warfare,Games,4.43194,47543,FAMILY,4.2,306652
+1110,Crusaders Quest,Games,4.67896,4227,FAMILY,4.4,475020
+1111,Battle Gems (AdventureQuest),Games,3.92754,69,FAMILY,4.4,48427
+1112,Partymasters - Fun Idle Game,Games,4.56893,306202,GAME,4.6,541144
+1113,Extreme Car Driving Simulator,Games,4.43265,43590,GAME,4.3,2251012
+1114,Photo Frame,Photo & Video,0.0,0,PHOTOGRAPHY,4.5,74476
+1115,Union League,Games,5.0,3,FAMILY,4.0,939
+1116,Battlelands Royale,Games,4.55718,120255,GAME,4.4,105620
+1117,Alto's Adventure,Games,4.61144,1853,GAME,4.6,515657
+1118,Alto's Adventure,Games,4.61144,1853,GAME,4.6,515240
+1119,Cy-Fair Christian Church,Lifestyle,2.5,2,LIFESTYLE,5.0,2
+1120,Dino War: Rise of Beasts,Games,3.76425,649,GAME,4.1,18996
+1121,Cymath - Math Problem Solver,Education,4.63382,10462,FAMILY,4.5,10159
+1122,Shadow Fight 2,Games,4.79467,137312,GAME,4.6,10979062
+1123,Shadow Fight 2,Games,4.79467,137312,GAME,4.6,10981850
+1124,Shadow Fight 2 Special Edition,Games,4.705,5122,GAME,4.5,10440
+1125,Castle Defense 2,Games,2.65823,79,FAMILY,4.2,35172
+1126,Ninja Turtles: Legends,Games,4.64191,48024,FAMILY,4.3,344283
+1127,CT Lottery,Entertainment,2.48175,137,FAMILY,3.8,271
+1128,Shadowverse CCG,Games,4.25091,1642,GAME,4.2,47340
+1129,Urban Car Simulator,Games,3.78824,85,FAMILY,4.2,23292
+1130,Beach Buggy Blitz,Games,4.39782,734,GAME,4.2,640974
+1131,Beach Volleyball 3D,Games,4.88889,9,SPORTS,4.2,43191
+1132,Fit the Fat 2,Games,4.34259,9361,SPORTS,3.8,35746
+1133,Starbucks,Food & Drink,4.84379,3913964,FOOD_AND_DRINK,4.5,455377
+1134,Starbucks,Food & Drink,4.84379,3913964,FOOD_AND_DRINK,4.5,455496
+1135,Peggle Blast,Games,2.9054800000000003,3375,GAME,4.1,166251
+1136,Dirt Trackin Sprint Cars,Games,4.70127,4104,GAME,3.8,499
+1137,Five Nights at Freddy's,Games,4.63314,12397,GAME,4.6,100805
+1138,Five Nights at Freddy's 2,Games,4.64103,6708,FAMILY,4.6,73919
+1139,Five Nights at Freddy's 3,Games,4.55211,6006,GAME,4.7,27856
+1140,Five Nights at Freddy's 4,Games,4.61361,8877,GAME,4.6,21266
+1141,Five Nights at Freddy's: SL,Games,4.45286,8709,GAME,4.5,16162
+1142,Ambulance Simulator 3D,Games,3.90909,55,FAMILY,3.9,29415
+1143,Marked by King Bs,Games,4.46633,2391,FAMILY,4.6,70335
+1144,Retro City Rampage DX,Games,0.0,0,GAME,4.7,416
+1145,Disney Heroes: Battle Mode,Games,4.57799,38492,GAME,4.6,102107
+1146,Hitman GO,Games,4.68266,1667,FAMILY,4.6,84114
+1147,Hitman Sniper,Games,4.75643,6257,GAME,4.6,408292
+1148,Strava.cz,Food & Drink,4.75,12,SHOPPING,4.3,2221
+1149,Texas Holdem Poker,Games,4.14716,2392,GAME,4.0,127831
+1150,Extreme Motorbike Jump 3D,Games,4.39572,187,FAMILY,4.0,94308
+1151,Cut the Rope GOLD,Games,4.84568,1147,FAMILY,4.6,61264
+1152,Nuke Em All,Games,3.35047,214,FAMILY,3.4,2714
+1153,Beauty Rental Shop,Games,4.60519,385,FAMILY,4.6,11480
+1154,MARVEL Future Fight,Games,4.43145,60911,FAMILY,4.6,2354042
+1155,D-H Pharmacy,Lifestyle,3.89474,19,LIFESTYLE,5.0,6
+1156,Da Fit,Health & Fitness,3.33028,218,SPORTS,3.5,1151
+1157,Daily Ab Workout,Health & Fitness,4.79628,1075,HEALTH_AND_FITNESS,4.6,2901
+1158,H Band,Health & Fitness,3.07456,845,HEALTH_AND_FITNESS,4.0,214
+1159,Hole.io,Games,4.61825,1887798,GAME,4.2,145353
+1160,Baby Name Together,Lifestyle,4.56372,204,PARENTING,4.0,464
+1161,Calcium Pro,Medical,4.79884,691,MEDICAL,3.4,77
+1162,Rhythm Patrol,Games,4.61842,76,FAMILY,4.3,4207
+1163,Cute Pet Puppies,Games,4.75,4,FAMILY,4.0,10447
+1164,STARZ,Entertainment,4.82207,306854,ENTERTAINMENT,4.3,88185
+1165,Garmin Connect™,Health & Fitness,4.41348,28168,HEALTH_AND_FITNESS,3.9,232153
+1166,CATS: Crash Arena Turbo Stars,Games,4.81126,327657,GAME,4.7,1559650
+1167,Calorie Counter - MyNetDiary,Health & Fitness,4.78439,30365,HEALTH_AND_FITNESS,4.5,27439
+1168,Cutie Cubies,Entertainment,4.64078,103,FAMILY,4.4,6356
+1169,CW Seed,Entertainment,2.85729,3959,ENTERTAINMENT,4.5,16372
+1170,CW Seed,Entertainment,2.85729,3959,FAMILY,4.5,16391
+1171,Steam: Rails to Riches,Games,4.36154,130,FAMILY,4.2,214
+1172,CX-10DS,Games,3.5,4,FAMILY,3.4,12
+1173,CX-10WiFi,Entertainment,2.57894,19,FAMILY,4.0,1419
+1174,CX-37,Games,0.0,0,FAMILY,3.9,13
+1175,CX-60,Entertainment,1.5,8,FAMILY,3.1,19
+1176,Angry Birds 2,Games,4.63743,970136,GAME,4.6,3883589
+1177,Angry Birds 2,Games,4.63743,970136,FAMILY,4.6,3881752
+1178,Angry Birds Blast,Games,4.62645,33479,FAMILY,4.6,253115
+1179,Angry Birds Evolution,Games,4.57324,44205,FAMILY,4.5,384602
+1180,Geocaching®,Navigation,4.79343,34913,HEALTH_AND_FITNESS,4.1,62616
+1181,LINE I Love Coffee,Games,2.8993100000000003,288,FAMILY,4.0,250257
+1182,Flat Pack,Games,4.70615,4203,GAME,4.4,862
+1183,GUN ZOMBIE,Games,3.78743,334,GAME,4.4,243121
+1184,Lineage 2: Revolution,Games,4.52741,29328,GAME,4.2,187972
+1185,Cardinal Glennon ER Reference,Medical,4.5,2,MEDICAL,4.2,19
+1186,GlassesOff,Medical,2.47748,111,MEDICAL,3.5,1288
+1187,Baritastic - Bariatric Tracker,Medical,4.79523,36441,MEDICAL,4.7,4318
+1188,Feel Performer,Health & Fitness,2.0,5,COMMUNICATION,2.2,62
+1189,Tic Tac Toe,Games,3.0,5,FAMILY,4.1,6007
+1190,Don't Starve: Pocket Edition,Games,4.5296,2517,GAME,4.4,17988
+1191,Don't Starve: Shipwrecked,Games,4.15127,628,GAME,4.1,1468
+1192,Flight Simulator: Fly Plane 3D,Games,1.0,1,FAMILY,4.0,660613
+1193,"Ideal Weight, BMI Calculator",Health & Fitness,0.0,0,HEALTH_AND_FITNESS,4.2,112384
+1194,Nemours CareConnect,Medical,4.92643,5682,MEDICAL,4.4,65
+1195,Fever,Medical,5.0,1,EVENTS,4.0,20611
+1196,Big Hunter,Games,4.59296,3184,GAME,4.3,245455
+1197,Pet Beauty Salon,Games,3.46667,30,FAMILY,3.8,20292
+1198,Castlight Mobile,Health & Fitness,4.74017,39135,MEDICAL,3.7,529
+1199,Davis's Drug Guide,Medical,4.83797,3524,MEDICAL,3.9,272
+1200,SimCity BuildIt,Games,4.00487,34324,FAMILY,4.5,4218587
+1201,Pain Tracker & Diary,Medical,4.93333,15,MEDICAL,4.3,3
+1202,EF Coach,Health & Fitness,3.75,8,HEALTH_AND_FITNESS,4.8,17
+1203,Riptide GP: Renegade,Games,4.63952,663,GAME,4.7,4328
+1204,Honkai Impact 3rd,Games,4.72771,33832,GAME,4.7,59017
+1205,Cerebral Palsy,Health & Fitness,0.0,0,MEDICAL,4.4,38
+1206,RISK: Global Domination,Games,4.74495,118678,FAMILY,4.0,68559
+1207,Samsung Health,Health & Fitness,4.58364,20960,HEALTH_AND_FITNESS,4.3,480208
+1208,OmniMedix Medical Calculator,Medical,4.35714,14,MEDICAL,4.7,25
+1209,CF Townsville,Health & Fitness,0.0,0,HEALTH_AND_FITNESS,5.0,4
+1210,Vi Trainer,Health & Fitness,4.62306,902,HEALTH_AND_FITNESS,3.6,124
+1211,We're Working Out - Al Kavadlo,Health & Fitness,4.8,250,HEALTH_AND_FITNESS,4.3,979
+1212,Paramedic Protocol Provider,Medical,3.63333,30,MEDICAL,4.5,171
+1213,Horror Hospital,Games,3.44444,45,GAME,3.7,63986
+1214,Weight Loss Running by Verv,Health & Fitness,4.63609,83443,HEALTH_AND_FITNESS,4.5,27393
+1215,Weight Loss Running by Verv,Health & Fitness,4.63609,83443,HEALTH_AND_FITNESS,4.5,27396
+1216,Recognise Foot,Medical,4.5,8,MEDICAL,4.2,9
+1217,BELONG Beating Cancer Together,Health & Fitness,4.86367,2318,MEDICAL,4.7,623
+1218,OneTouch Reveal,Medical,4.75854,81417,MEDICAL,3.9,6266
+1219,Looper!,Games,4.64198,256577,GAME,4.6,48256
+1220,Patient Portal,Health & Fitness,1.66667,6,MEDICAL,2.8,66
+1221,High Blood Pressure,Medical,0.0,0,MEDICAL,3.8,4
+1222,Drag'n'Boom,Games,4.85156,16236,GAME,4.8,133180
+1223,OptumRx,Medical,3.85115,11105,MEDICAL,3.4,1838
+1224,Dragon Hills,Games,4.67027,1389,GAME,4.5,354373
+1225,Relax Melodies P: Sleep Sounds,Health & Fitness,4.78069,6297,HEALTH_AND_FITNESS,4.8,19543
+1226,Relax Melodies: Sleep Sounds,Health & Fitness,0.0,0,HEALTH_AND_FITNESS,4.5,233243
+1227,Relax Melodies: Sleep Sounds,Health & Fitness,4.7698,227379,HEALTH_AND_FITNESS,4.5,233243
+1228,Dragon Nest M,Games,3.68647,791,FAMILY,4.6,11872
+1229,DRAGON QUEST,Games,4.50286,350,FAMILY,4.2,9659
+1230,DRAGON QUEST II,Games,4.45802,131,FAMILY,4.5,2576
+1231,DRAGON QUEST III,Games,4.39286,140,FAMILY,4.2,1661
+1232,DRAGON QUEST IV,Games,4.45918,98,FAMILY,4.7,1647
+1233,DRAGON QUEST V,Games,4.62016,129,FAMILY,4.7,1667
+1234,DRAGON QUEST VI,Games,4.12903,62,FAMILY,4.4,3358
+1235,DRAGON QUEST VIII,Games,3.83986,281,FAMILY,4.5,7812
+1236,Pedi STAT,Medical,4.34286,35,MEDICAL,4.6,129
+1237,Relaxing Sounds,Health & Fitness,0.0,0,HEALTH_AND_FITNESS,4.6,4642
+1238,PewDiePie's Tuber Simulator,Games,4.89403,194991,FAMILY,4.8,1499466
+1239,White Noise Baby,Lifestyle,4.79189,1307,LIFESTYLE,4.5,10544
+1240,White Noise for Baby,Health & Fitness,5.0,17,PARENTING,4.9,717
+1241,White Noise Lite,Health & Fitness,0.0,0,HEALTH_AND_FITNESS,4.4,57634
+1242,White Noise Lite,Health & Fitness,4.82162,144997,HEALTH_AND_FITNESS,4.4,57634
+1243,Love Nikki-Dress UP Queen,Games,4.53156,64591,GAME,4.4,212524
+1244,Love Signal: D-Mate,Games,3.41259,143,FAMILY,4.3,1895
+1245,Home Workout - No Equipment,Health & Fitness,4.93525,417,HEALTH_AND_FITNESS,4.8,428156
+1246,Home Workout - No Equipment,Health & Fitness,4.93525,417,HEALTH_AND_FITNESS,4.8,432160
+1247,Loved by King Bs,Games,4.36425,442,FAMILY,4.6,5546
+1248,Draw N Guess Multiplayer,Games,4.03374,1630,GAME,3.9,29505
+1249,FitConsole,Health & Fitness,1.5,6,HEALTH_AND_FITNESS,2.6,219
+1250,Binaural Beats Meditation,Health & Fitness,3.0,2,LIBRARIES_AND_DEMO,4.3,411
+1251,BioLife Plasma Services,Medical,2.28571,399,MEDICAL,3.5,250
+1252,WomanLog Calendar,Health & Fitness,4.63603,544,HEALTH_AND_FITNESS,4.5,121838
+1253,Subway Surfers,Games,4.61929,1341151,GAME,4.5,27722264
+1254,Subway Surfers,Games,4.61929,1341151,GAME,4.5,27723193
+1255,Subway Surfers,Games,4.61929,1341151,GAME,4.5,27724094
+1256,Subway Surfers,Games,4.61929,1341151,GAME,4.5,27725352
+1257,Subway Surfers,Games,4.61929,1341151,GAME,4.5,27711703
+1258,Philips Hue,Lifestyle,4.51707,36036,LIFESTYLE,3.1,10006
+1259,Workout Trainer: fitness coach,Health & Fitness,4.74271,6930,HEALTH_AND_FITNESS,4.2,100406
+1260,Rolling Sky,Games,4.38106,71689,GAME,4.5,1117212
+1261,HPlus,Health & Fitness,2.46429,28,HEALTH_AND_FITNESS,2.9,1786
+1262,Blood Glucose Tracker,Medical,2.0,1,HEALTH_AND_FITNESS,4.6,9612
+1263,Nursing Central,Medical,4.838,6704,MEDICAL,4.3,168
+1264,CHRONO TRIGGER (Upgrade Ver.),Games,4.45455,814,FAMILY,3.8,11250
+1265,Blood Pressure Companion,Medical,4.38129,1251,MEDICAL,4.2,178
+1266,Blood Pressure(BP) Diary,Health & Fitness,5.0,1,MEDICAL,3.7,3596
+1267,AF Hydro,Health & Fitness,3.0,4,HEALTH_AND_FITNESS,2.0,136
+1268,Rolly Vortex,Games,4.59774,312501,GAME,4.4,98123
+1269,Mayo Clinic,Medical,3.60677,1536,MEDICAL,4.3,2218
+1270,MbH BM,Medical,0.0,0,MEDICAL,1.0,1
+1271,MbH BP,Medical,3.5,2,MEDICAL,3.7,9
+1272,Piczle Lines DX,Games,4.77778,72,FAMILY,4.6,281
+1273,Luxury Car Simulator,Games,4.32951,349,FAMILY,3.9,35989
+1274,Summoners War,Games,4.23187,30030,GAME,4.3,2045554
+1275,Blue CareOnDemand,Medical,4.91805,5186,MEDICAL,4.4,163
+1276,Blackjack,Games,4.65006,136079,GAME,4.3,52199
+1277,Rope Hero 3,Games,3.19753,81,GAME,4.4,45871
+1278,Rope Hero: Vice Town,Games,4.06358,755,GAME,4.4,452589
+1279,Super AR,Entertainment,3.33333,15,FAMILY,3.8,410
+1280,Sleeping Delivery,Games,4.58575,927,FAMILY,4.6,19640
+1281,Rope'n'Fly 3 - Dusk Till Dawn,Games,4.31887,853,GAME,4.0,166033
+1282,Rope'n'Fly 4,Games,4.1495,1204,GAME,4.1,234606
+1283,ScriptSave WellRx Rx Discounts,Medical,4.81768,3971,MEDICAL,3.8,700
+1284,Driving Zone,Games,4.07097,620,GAME,4.2,51791
+1285,Exposure Ed,Health & Fitness,4.0,12,MEDICAL,3.0,2
+1286,CA Speakers,Lifestyle,4.77778,9,LIFESTYLE,5.0,12
+1287,Tomb of the Mask,Games,4.66883,1053330,GAME,4.1,55380
+1288,Super Jabber Jump,Games,4.35794,989,GAME,4.3,85882
+1289,Baby Monitor,Lifestyle,1.4,10,PARENTING,4.4,5343
+1290,Lose Weight in 30 Days,Health & Fitness,4.82031,128,HEALTH_AND_FITNESS,4.8,220125
+1291,Toon Blast,Games,4.71175,2119062,GAME,4.7,1351068
+1292,Toon Blast,Games,4.71175,2119062,GAME,4.7,1351089
+1293,Toon Blast,Games,4.71175,2119062,GAME,4.7,1351771
+1294,Royale Tournaments,Productivity,4.09091,88,FAMILY,4.4,2420
+1295,RPG Dragon Lapis,Games,4.78688,610,FAMILY,4.6,13492
+1296,SuperBikers 2,Games,3.75,4,GAME,3.9,6200
+1297,Self Healing,Health & Fitness,3.66667,3,HEALTH_AND_FITNESS,4.5,14394
+1298,AC Freedom,Lifestyle,2.76923,65,BUSINESS,3.5,537
+1299,AC WIFI,Lifestyle,1.85714,7,TOOLS,3.6,41
+1300,Block Gun 3D: Haunted Hollow,Games,3.51316,76,GAME,3.8,16282
+1301,Badische Zeitung,News,4.0,8,NEWS_AND_MAGAZINES,3.9,262
+1302,Block Puzzle - Wood Legend,Games,4.59115,384,FAMILY,4.4,318867
+1303,Forgotten Hill Mementoes,Games,4.67123,73,GAME,4.6,2027
+1304,Forgotten Hill: Fall,Games,4.03448,58,GAME,4.4,1063
+1305,Forgotten Hill: Puppeteer,Games,4.55999,50,GAME,4.5,2917
+1306,Forgotten Hill: Surgery,Games,4.21429,56,GAME,4.5,2431
+1307,Mental Hospital V,Games,3.73333,15,GAME,4.2,2460
+1308,Meditation Studio,Health & Fitness,4.80147,8694,HEALTH_AND_FITNESS,4.6,1026
+1309,Brain Waves - Binaural Beats,Health & Fitness,0.0,0,HEALTH_AND_FITNESS,4.4,5038
+1310,Merge Dragons!,Games,4.74207,310923,GAME,4.5,214777
+1311,Merge Dragons!,Games,4.74207,310923,GAME,4.5,214819
+1312,World at War: WW2 Strategy MMO,Games,4.30199,1308,FAMILY,4.3,107765
+1313,FP Runner,Games,5.0,1,GAME,3.7,38
+1314,Florida Blue,Health & Fitness,1.77273,66,HEALTH_AND_FITNESS,3.2,499
+1315,G-Homa,Lifestyle,1.0,2,LIFESTYLE,3.1,777
+1316,Surprise Eggs,Games,3.88312,308,FAMILY,3.9,81543
+1317,G-SHOCK Connected,Utilities,4.74176,6676,LIFESTYLE,3.0,543
+1318,H Pack,Lifestyle,3.0,1,LIFESTYLE,4.3,9412
+1319,Dexcom G6,Medical,2.94808,3987,MEDICAL,3.0,45
+1320,MedStar eVisit,Medical,4.94423,7100,MEDICAL,4.5,20
+1321,Survival Run with Bear Grylls,Games,4.71274,369,GAME,4.2,128579
+1322,Breathing Zone,Health & Fitness,4.61038,906,MEDICAL,4.6,319
+1323,Diabetes:M,Medical,4.55931,826,MEDICAL,4.6,15545
+1324,Diabetes:M,Medical,4.55931,826,MEDICAL,4.6,15537
+1325,FollowMyHealth®,Medical,4.75167,45310,MEDICAL,4.6,73118
+1326,SVT Play,Entertainment,3.33333,15,VIDEO_PLAYERS,3.7,11549
+1327,Calvary.ch App,Lifestyle,5.0,7,LIFESTYLE,4.4,10
+1328,Lakeside AG Moultrie,Lifestyle,0.0,0,LIFESTYLE,5.0,3
+1329,Blossom Blast Saga,Games,4.64724,32943,GAME,4.5,1125438
+1330,Jamaa Amino for Animal Jam,Social Networking,4.55044,565,SOCIAL,4.7,3873
+1331,Fossil Q Legacy,Lifestyle,2.5082,122,LIFESTYLE,2.6,680
+1332,PLANK!,Games,4.54697,161964,GAME,4.7,7196
+1333,EC Security,Lifestyle,0.0,0,LIFESTYLE,4.5,13
+1334,MI-BP,Health & Fitness,0.0,0,HEALTH_AND_FITNESS,5.0,1
+1335,Do I Snore or Grind,Health & Fitness,4.10924,119,MEDICAL,4.4,2295
+1336,Doctor On Demand,Medical,4.92105,102871,MEDICAL,4.7,18674
+1337,Candy simply-Fi,Utilities,2.32432,111,LIFESTYLE,2.1,2390
+1338,ECナビ×シュフー,Lifestyle,0.0,0,LIFESTYLE,4.0,576
+1339,Eddsworld Amino,Social Networking,4.851,745,SOCIAL,4.9,3071
+1340,SYFY,Entertainment,4.48867,5779,FAMILY,3.2,3069
+1341,"Please, Don't Touch Anything",Games,3.77874,348,FAMILY,4.4,1771
+1342,AP Manager,Productivity,0.0,0,TOOLS,4.0,177
+1343,Cures A-Z,Health & Fitness,4.09999,20,HEALTH_AND_FITNESS,4.0,265
+1344,Boom Beach,Games,4.7143,245727,FAMILY,4.5,5591653
+1345,CVS Caremark,Medical,4.44546,44933,MEDICAL,3.5,3707
+1346,Pocket Yoga,Health & Fitness,0.0,0,HEALTH_AND_FITNESS,4.4,2107
+1347,EH!,Lifestyle,5.0,1,LIFESTYLE,4.6,10
+1348,EK Platinum,Lifestyle,1.61538,13,LIFESTYLE,3.8,52
+1349,Pokémon GO,Games,4.02132,381853,GAME,4.1,10424925
+1350,Pokémon GO,Games,4.02132,381853,GAME,4.1,10421284
+1351,Minecraft,Games,4.50019,493942,FAMILY,4.5,2376564
+1352,Minecraft,Games,4.50019,493942,FAMILY,4.5,2375336
+1353,Poop Tracker - Toilet Log,Health & Fitness,2.58824,34,HEALTH_AND_FITNESS,4.4,622
+1354,Wrestling Revolution 3D,Games,3.87305,3789,SPORTS,4.3,989344
+1355,Armani Exchange Connected,Health & Fitness,3.98571,70,LIFESTYLE,4.1,305
+1356,Mini DAYZ: Zombie Survival,Games,3.82247,4726,GAME,4.1,94661
+1357,Deep Sleep and Relax Hypnosis,Medical,4.09787,797,MEDICAL,4.2,4852
+1358,FamilySearch Tree,Reference,4.84262,254391,BOOKS_AND_REFERENCE,4.3,17506
+1359,MommyMeds,Medical,4.83417,199,MEDICAL,3.2,45
+1360,MagicLight BT,Lifestyle,3.04348,46,LIFESTYLE,2.7,135
+1361,"Carousell: Snap-Sell, Chat-Buy",Shopping,4.66302,7134,SHOPPING,4.3,125783
+1362,Fancy,Shopping,4.76537,2587,SHOPPING,4.2,39735
+1363,Airbnb,Travel,4.80466,525551,TRAVEL_AND_LOCAL,4.4,359403
+1364,Airbnb,Travel,4.80466,525551,TRAVEL_AND_LOCAL,4.4,359560
+1365,Monitor Your Weight,Health & Fitness,4.81924,12995,HEALTH_AND_FITNESS,4.5,126017
+1366,Bedroom Decorating Ideas,Lifestyle,1.0,2,HOUSE_AND_HOME,4.0,2382
+1367,"Journey - Diary, Journal",Lifestyle,4.6874,3874,LIFESTYLE,4.6,50338
+1368,ARK: Survival Evolved,Games,4.44611,84367,GAME,3.8,51523
+1369,Lennox iComfort Wi-Fi,Lifestyle,1.77083,192,LIFESTYLE,3.0,552
+1370,Mirror’s Edge™ Companion,Games,2.85437,103,GAME,3.4,1995
+1371,Dr. McDougall Mobile Cookbook,Lifestyle,4.6962,237,HEALTH_AND_FITNESS,3.8,76
+1372,Dr. Muscle,Health & Fitness,0.0,0,HEALTH_AND_FITNESS,4.0,87
+1373,Toy Blast,Games,4.70755,939479,GAME,4.7,1889250
+1374,Toy Blast,Games,4.70755,939479,GAME,4.7,1889582
+1375,Kicker U,Reference,2.65625,32,LIFESTYLE,4.1,124
+1376,Kicker U Lite,Reference,3.2,15,LIFESTYLE,4.1,438
+1377,GKPB FP Online Church,Lifestyle,0.0,0,LIFESTYLE,5.0,32
+1378,Catalyst AZ,Lifestyle,5.0,8,FAMILY,4.8,12
+1379,Cathay Pacific,Travel,4.4,30,TRAVEL_AND_LOCAL,3.3,4069
+1380,Mobile Strike,Games,2.48356,639,FAMILY,3.9,903392
+1381,LG AC Smart Diagnosis,Lifestyle,2.82353,34,LIFESTYLE,3.4,377
+1382,Alfred Home Security Camera,Lifestyle,4.74285,59778,HOUSE_AND_HOME,4.5,103305
+1383,Muscle Trigger Point Anatomy,Medical,0.0,0,MEDICAL,4.4,1361
+1384,Diary with lock,Lifestyle,4.38073,1048,LIFESTYLE,4.6,815893
+1385,Diary with lock,Lifestyle,4.38073,1048,LIFESTYLE,4.6,815280
+1386,Best Buy,Shopping,4.82495,303117,SHOPPING,4.4,186116
+1387,My Calendar - Period Tracker,Health & Fitness,4.78131,26174,MEDICAL,4.7,156410
+1388,My Cancer Coach,Medical,4.46903,113,MEDICAL,4.3,44
+1389,My Chakra Meditation,Lifestyle,4.125,8,HEALTH_AND_FITNESS,4.4,7586
+1390,My Chakra Meditation 2,Health & Fitness,2.6,20,HEALTH_AND_FITNESS,4.3,1288
+1391,CE Smart,Lifestyle,4.74701,1921,TOOLS,5.0,3
+1392,EP Church Annapolis,Lifestyle,4.0,2,LIFESTYLE,5.0,2
+1393,EP Horlogerie,Lifestyle,0.0,0,LIFESTYLE,4.9,18
+1394,Digital TV,News,0.0,0,ENTERTAINMENT,3.1,5241
+1395,Allegiant,Travel,2.95031,2234,TRAVEL_AND_LOCAL,3.1,5572
+1396,Toy Truck Rally 3D,Games,3.75,4,GAME,4.0,301895
+1397,South Florida AA Meetings,Lifestyle,4.72727,11,LIFESTYLE,5.0,10
+1398,Pou,Games,4.322,2618,GAME,4.3,10485308
+1399,Pou,Games,4.322,2618,GAME,4.3,10485334
+1400,Pou,Games,4.322,2618,GAME,4.3,10486018
+1401,Pou,Games,4.322,2618,FAMILY,4.3,10483141
+1402,CF Life,Lifestyle,5.0,8,FAMILY,5.0,4
+1403,CG Prints,Photo & Video,3.0,2,PHOTOGRAPHY,5.0,1
+1404,Power Rangers: Legacy Wars,Games,4.07362,11436,GAME,4.3,264755
+1405,File Manager,Utilities,1.0,1,TOOLS,4.6,739329
+1406,File Manager,Utilities,0.0,0,TOOLS,4.6,739329
+1407,LIFULL HOME'S,Navigation,4.56522,161,HOUSE_AND_HOME,4.2,7573
+1408,Assassin's Creed Identity,Games,4.03235,4452,GAME,3.7,42529
+1409,Premier League - Official App,Sports,4.79186,152356,SPORTS,4.3,63580
+1410,Premier League - Official App,Sports,4.79186,152356,SPORTS,4.3,63782
+1411,Bridge Constructor Playground FREE,Games,0.0,0,FAMILY,3.9,137377
+1412,Etta Homes,Lifestyle,4.73576,1968,LIFESTYLE,4.2,220
+1413,Train Sim Pro,Games,4.58824,136,FAMILY,4.0,1763
+1414,Hi-Smart AC,Utilities,1.23729,59,TOOLS,2.2,32
+1415,EV Real Estate Search,Lifestyle,4.86554,1004,LIFESTYLE,4.1,88
+1416,EV Trip Optimizer for Tesla,Lifestyle,2.61764,68,AUTO_AND_VEHICLES,3.2,46
+1417,Big Days - Events Countdown,Productivity,4.57951,283,LIFESTYLE,4.6,39724
+1418,Traps n' Gemstones,Games,4.6875,32,GAME,4.5,413
+1419,Bubble Bird Rescue,Games,4.28723,188,FAMILY,4.2,70753
+1420,Amazon Shopping,Shopping,4.8351,4349737,SHOPPING,4.3,909226
+1421,Amazon Shopping,Shopping,4.8351,4349737,SHOPPING,4.3,909204
+1422,Amazon Shopping,Shopping,4.8351,4349737,SHOPPING,4.3,908525
+1423,Mopar Drag N Brag,Games,4.18564,1643,GAME,4.2,30630
+1424,Everbridge,Lifestyle,2.04402,704,COMMUNICATION,3.1,497
+1425,American Airlines,Travel,4.58276,166301,TRAVEL_AND_LOCAL,3.7,16980
+1426,American Airlines,Travel,4.58276,166301,TRAVEL_AND_LOCAL,3.7,16973
+1427,Hinge: Dating & Relationships,Lifestyle,4.4869,496169,DATING,4.2,7779
+1428,DK Eyewitness Audio Walks,Travel,1.64286,14,TRAVEL_AND_LOCAL,2.3,9
+1429,"Pzizz - Sleep, Nap, Focus",Health & Fitness,4.77409,8645,MEDICAL,4.3,5521
+1430,Fisher-Price® Smart Connect™,Lifestyle,4.66676,3601,TOOLS,2.7,422
+1431,Kroger,Shopping,4.77787,958698,SHOPPING,4.3,38961
+1432,Motorbike Driving Simulator 3D,Games,4.3674,411,GAME,3.9,178723
+1433,Dream EZ,Health & Fitness,4.2,5,HEALTH_AND_FITNESS,4.1,107
+1434,DreamMapper,Medical,4.60191,92291,MEDICAL,4.2,10710
+1435,Step Counter - Calorie Counter,Health & Fitness,4.58333,12,HEALTH_AND_FITNESS,4.0,1577
+1436,Drugs.com Medication Guide,Medical,4.81422,5711,MEDICAL,4.4,15875
+1437,EZ LED,Lifestyle,1.2857,14,TOOLS,2.2,19
+1438,MyQuest for Patients,Medical,4.50976,16143,MEDICAL,4.0,3803
+1439,Axe Knight,Games,3.0,1,GAME,4.5,52
+1440,AZ Rockets,Games,3.64706,34,GAME,4.2,162
+1441,Solitaire!,Games,4.53846,13,GAME,4.7,403911
+1442,LOBSTR - go on a lunch date,Lifestyle,5.0,1,DATING,3.7,101
+1443,"Blendr - Chat, Flirt & Meet",Social Networking,4.29249,1624,DATING,4.0,28671
+1444,Sonic CD Classic,Games,3.93706,3813,GAME,4.6,26138
+1445,Flipp - Weekly Shopping,Shopping,4.73066,149412,SHOPPING,4.6,85858
+1446,Flipp - Weekly Shopping,Shopping,4.73066,149412,SHOPPING,4.6,85782
+1447,Reminder,Productivity,3.0,3,EVENTS,4.5,7074
+1448,T-Mobile SyncUP DRIVE,Utilities,4.80058,27245,AUTO_AND_VEHICLES,4.0,1981
+1449,Bubble Witch 3 Saga,Games,4.65854,93833,GAME,4.7,1732263
+1450,South Park: Phone Destroyer™,Games,4.76942,196751,FAMILY,4.4,288835
+1451,GroupMe,Social Networking,4.73582,1559725,COMMUNICATION,4.5,330761
+1452,NissanConnect® EV & Services,Lifestyle,4.50729,960,LIFESTYLE,2.3,853
+1453,Long Realty AZ Home Search,Lifestyle,4.81276,1661,LIFESTYLE,4.4,132
+1454,MEGA,Lifestyle,1.0,1,PRODUCTIVITY,4.0,549973
+1455,MEGA,Lifestyle,1.0,1,PRODUCTIVITY,4.0,549214
+1456,Penny Finder,Shopping,2.75962,520,SHOPPING,4.2,470
+1457,CI On The Go,Lifestyle,4.84615,65,NEWS_AND_MAGAZINES,3.0,2
+1458,Nordstrom,Shopping,4.89199,638126,SHOPPING,4.6,2278
+1459,Build a Bridge!,Games,4.64191,23952,FAMILY,4.6,263454
+1460,Courier Journal,News,4.39872,2054,NEWS_AND_MAGAZINES,3.5,254
+1461,Gyft - Mobile Gift Card Wallet,Shopping,2.91336,2343,SHOPPING,4.1,9701
+1462,DS cam,Utilities,3.56897,58,PRODUCTIVITY,3.6,3227
+1463,Foods Co,Shopping,4.46099,141,SHOPPING,4.3,199
+1464,Sway Medical,Medical,3.0,129,MEDICAL,5.0,3
+1465,DX Alerts,Lifestyle,2.0,7,LIFESTYLE,4.5,22
+1466,Special Forces Group 2,Games,4.3007,10279,GAME,4.6,1432809
+1467,Urban Outfitters,Shopping,4.87571,412085,SHOPPING,4.2,4158
+1468,McClatchy DC Bureau,News,4.53226,62,NEWS_AND_MAGAZINES,4.3,80
+1469,Clear,Lifestyle,5.0,15,TOOLS,3.1,24151
+1470,WedMeGood - Wedding Planner,Lifestyle,4.58763,679,LIFESTYLE,4.6,1658
+1471,Save.ca,Shopping,4.0,8,SHOPPING,3.7,2094
+1472,Tunnel Town,Games,4.29738,2522,FAMILY,4.4,74744
+1473,Pinterest,Lifestyle,4.80604,3996473,SOCIAL,4.6,4305441
+1474,Pinterest,Lifestyle,4.80604,3996473,SOCIAL,4.6,4300936
+1475,ASOS,Shopping,4.86069,387327,SHOPPING,4.7,181798
+1476,ASOS,Shopping,4.86069,387327,SHOPPING,4.7,181823
+1477,CN Resident,Reference,1.0,1,FAMILY,5.0,1
+1478,Rossmann PL,Lifestyle,3.40909,22,SHOPPING,4.0,15867
+1479,Familyfirst Messenger,Medical,4.48485,33,MEDICAL,4.0,1
+1480,Co-op CRS,Lifestyle,0.0,0,LIFESTYLE,3.6,581
+1481,AT&T Digital Life,Lifestyle,3.15223,1478,LIFESTYLE,4.1,10067
+1482,EC-HRV test,Medical,0.0,0,SPORTS,3.0,9
+1483,KBA-EZ Health Guide,Medical,2.95,20,MEDICAL,5.0,4
+1484,MiniInTheBox Online Shopping,Shopping,4.39736,911,SHOPPING,3.9,34171
+1485,IHSS Help,Medical,2.8125,32,MEDICAL,4.7,10
+1486,Fuel Rewards® program,Shopping,4.76543,395252,LIFESTYLE,4.6,32433
+1487,Code,Lifestyle,0.0,0,VIDEO_PLAYERS,4.4,239242
+1488,HealtheLife,Medical,2.17872,442,MEDICAL,3.6,190
+1489,Telegram,Social Networking,0.0,0,COMMUNICATION,4.4,3128250
+1490,Telegram,Social Networking,0.0,0,COMMUNICATION,4.4,3128509
+1491,Telegram,Social Networking,0.0,0,COMMUNICATION,4.4,3128611
+1492,Scoreboard FR,Lifestyle,2.28873,142,LIFESTYLE,4.3,3
+1493,Lippincott Nursing Advisor,Medical,2.54545,22,MEDICAL,3.8,343
+1494,Au Pair Legend,Lifestyle,3.375,8,LIFESTYLE,4.4,28
+1495,Interactive CT and MRI Anatomy,Medical,3.0,2,MEDICAL,3.4,35
+1496,EP Mobile,Medical,5.0,4,MEDICAL,4.3,267
+1497,ColorSnap® Visualizer,Lifestyle,3.9743,13426,HOUSE_AND_HOME,3.4,3280
+1498,WICShopper,Shopping,4.49497,1988,SHOPPING,3.9,3023
+1499,Nucleus Smart,Medical,3.26838,272,MEDICAL,3.7,20
+1500,FK,Medical,4.58824,17,MEDICAL,4.4,1517
+1501,Community by C Space,Lifestyle,4.75682,1209,LIFESTYLE,4.7,707
+1502,PLAYBULB X,Utilities,2.57446,94,LIFESTYLE,2.9,2160
+1503,Hospitalist Handbook,Medical,4.51515,33,MEDICAL,4.8,12
+1504,ClearCareGo Caregiver,Medical,4.07883,4186,MEDICAL,4.2,1746
+1505,EyeCloud,Photo & Video,3.32778,360,LIBRARIES_AND_DEMO,3.1,1267
+1506,Vargo Anesthesia Mega App,Medical,4.54795,73,MEDICAL,4.6,92
+1507,AnatomyMapp,Medical,4.72482,963,MEDICAL,4.1,80
+1508,UM BP Track,Medical,0.0,0,MEDICAL,2.0,1
+1509,"Moco - Chat, Meet People",Lifestyle,4.08961,17130,DATING,4.2,313724
+1510,"Moco - Chat, Meet People",Lifestyle,4.08961,17130,DATING,4.2,313769
+1511,FP Notebook,Medical,2.90805,87,MEDICAL,4.5,408
+1512,FP Notebook,Medical,2.90805,87,MEDICAL,4.5,410
+1513,VetCode,Medical,0.0,0,MEDICAL,4.9,28
+1514,Stack Jump,Games,4.56148,287147,GAME,4.3,118253
+1515,REDCap Mobile App,Medical,4.5,2,MEDICAL,4.3,56
+1516,Cochrane Library,Medical,4.88889,9,MEDICAL,3.7,3
+1517,Wish - Shopping Made Fun,Shopping,4.65395,2200858,SHOPPING,4.5,6210998
+1518,Wish - Shopping Made Fun,Shopping,4.65395,2200858,SHOPPING,4.5,6211039
+1519,Wish - Shopping Made Fun,Shopping,4.65395,2200858,SHOPPING,4.5,6212081
+1520,Wish - Shopping Made Fun,Shopping,4.65395,2200858,SHOPPING,4.5,6200739
+1521,OptoDrum,Medical,2.1,10,MEDICAL,3.9,10
+1522,AO Surgery Reference,Medical,3.0,2,MEDICAL,4.7,2570
+1523,AO/OTA Fracture Classification,Medical,4.21429,14,MEDICAL,4.9,25
+1524,Seen,Medical,0.0,0,FAMILY,4.5,118285
+1525,Seen,Shopping,5.0,5,FAMILY,4.5,118285
+1526,Standoff 2,Games,4.62825,11002,GAME,4.5,299046
+1527,Star Wars™: Galaxy of Heroes,Games,4.61366,192534,FAMILY,4.5,1461698
+1528,BZ-Smart,News,4.66667,3,NEWS_AND_MAGAZINES,4.3,828
+1529,CT MyChiroTown Mobile,Medical,2.5,8,MEDICAL,3.9,40
+1530,ASRA Coags,Medical,4.5,12,MEDICAL,4.4,15
+1531,Sharaf DG,Shopping,4.46479,2627,SHOPPING,4.0,7006
+1532,Stick War: Legacy,Games,4.79362,36316,GAME,4.6,811040
+1533,Couchsurfing Travel App,Travel,4.62502,6915,TRAVEL_AND_LOCAL,4.4,61776
+1534,EXO-L Amino for EXO Fans,Music,4.84456,193,SOCIAL,4.9,5677
+1535,Cytus,Games,4.86306,1519,GAME,4.7,541732
+1536,Cytus II,Games,4.847,8026,GAME,4.7,16851
+1537,Skin Disease,Medical,0.0,0,BEAUTY,4.0,1
+1538,PulsePoint AED,Medical,4.71767,5320,MEDICAL,4.5,330
+1539,PulsePoint Respond,Medical,4.78775,122218,MEDICAL,4.5,7837
+1540,Cozi Family Organizer,Productivity,4.80006,242866,PRODUCTIVITY,4.4,56713
+1541,CP Clicker,Lifestyle,2.8012,166,LIFESTYLE,4.2,251
+1542,AY Sing,Reference,4.59999,20,BOOKS_AND_REFERENCE,4.8,111
+1543,BH Táxi,Navigation,0.0,0,BUSINESS,3.9,91
+1544,CQ Hotels,Travel,3.0,30,TRAVEL_AND_LOCAL,4.3,15
+1545,DB Busradar NRW,Travel,0.0,0,MAPS_AND_NAVIGATION,3.7,78
+1546,DB Navigator,Travel,3.96183,524,MAPS_AND_NAVIGATION,4.0,119685
+1547,DB Streckenagent,Travel,3.55556,9,MAPS_AND_NAVIGATION,3.9,4569
+1548,DC Metro,Utilities,5.0,1,MAPS_AND_NAVIGATION,3.4,59
+1549,DC Metro,Utilities,0.0,0,MAPS_AND_NAVIGATION,3.4,59
+1550,BringGo AU & NZ,Navigation,5.0,1,MAPS_AND_NAVIGATION,2.8,440
+1551,Strike! Ten Pin Bowling,Games,4.25729,1337,SPORTS,4.2,18584
+1552,National Rail Enquiries,Travel,2.4,5,MAPS_AND_NAVIGATION,3.5,18857
+1553,Stupid Zombies,Games,4.77726,77465,GAME,4.5,464900
+1554,EV Connect,Navigation,4.54685,587,MAPS_AND_NAVIGATION,2.8,25
+1555,Google Earth,Travel,4.13587,26069,TRAVEL_AND_LOCAL,4.3,2338655
+1556,Google Earth,Travel,4.13587,26069,TRAVEL_AND_LOCAL,4.3,2339098
+1557,CS Customizer,Lifestyle,4.11111,9,COMMUNICATION,3.7,25
+1558,Mutual - LDS Dating,Lifestyle,3.98782,24065,DATING,3.7,1439
+1559,GPS Speedometer and Odometer,Navigation,4.77961,9760,MAPS_AND_NAVIGATION,4.8,15865
+1560,MyChart,Medical,3.69111,11784,MEDICAL,4.2,19473
+1561,Grab Driver,Travel,3.63118,263,MAPS_AND_NAVIGATION,4.2,301413
+1562,Paris ci la Sortie du Métro,Travel,4.84211,38,MAPS_AND_NAVIGATION,4.2,453
+1563,Creative Destruction,Games,4.55062,173077,GAME,4.4,201426
+1564,BaconReader for Reddit,News,4.08821,1315,NEWS_AND_MAGAZINES,4.5,103074
+1565,E! News,News,4.76607,42393,NEWS_AND_MAGAZINES,4.0,15443
+1566,My College Bookstore,Shopping,4.09077,672,SHOPPING,3.2,661
+1567,"Ocala Star Banner, FL",News,4.27027,111,NEWS_AND_MAGAZINES,4.5,75
+1568,BBC Sport,Sports,4.68703,12097,SPORTS,4.2,18678
+1569,BBC Sport,Sports,4.68703,12097,SPORTS,4.2,18679
+1570,NTES,Travel,3.23913,46,TRAVEL_AND_LOCAL,4.3,165299
+1571,AF Link,News,4.47222,36,NEWS_AND_MAGAZINES,4.7,210
+1572,CX-17WIFI,Lifestyle,3.0,3,FAMILY,4.3,49
+1573,SkyLove – Dating and chat,Social Networking,4.50952,420,DATING,3.5,69
+1574,AL.com,News,4.49128,15311,NEWS_AND_MAGAZINES,3.4,803
+1575,News360: Personalized News,News,4.56959,14154,NEWS_AND_MAGAZINES,4.4,30722
+1576,PlugShare,Navigation,4.75185,60237,MAPS_AND_NAVIGATION,4.7,4501
+1577,BG Score,Sports,0.0,0,SPORTS,2.6,64
+1578,Pocket,News,0.0,0,NEWS_AND_MAGAZINES,4.5,256680
+1579,Fast News,News,0.0,0,NEWS_AND_MAGAZINES,4.4,84957
+1580,Middlesbrough FC Official,Sports,2.66667,3,SPORTS,4.5,152
+1581,VZ Navigator,Navigation,3.97739,575,TRAVEL_AND_LOCAL,4.0,16101
+1582,Novinky.cz,News,4.88889,9,NEWS_AND_MAGAZINES,3.7,2375
+1583,Live Tennis Rankings / LTR,Sports,4.84471,1288,SPORTS,4.8,1660
+1584,FK Crvena zvezda,News,4.86275,51,SPORTS,4.9,1211
+1585,AP ENPS Mobile,Productivity,2.375,8,PRODUCTIVITY,4.1,22
+1586,E!,Entertainment,4.5409,6724,FAMILY,3.1,740
+1587,Florida Today,News,4.56102,1729,NEWS_AND_MAGAZINES,3.3,202
+1588,DC-014,Photo & Video,3.875,24,PHOTOGRAPHY,5.0,3
+1589,Image 2 Wallpaper,Utilities,4.40909,22,TOOLS,4.3,81668
+1590,Goal Live Scores,Sports,4.69104,4117,SPORTS,4.4,232423
+1591,Turo - Better Than Car Rental,Travel,4.8041,163698,TRAVEL_AND_LOCAL,4.4,14114
+1592,Chicago Tribune,News,4.48618,8579,NEWS_AND_MAGAZINES,3.6,1380
+1593,Speed Cameras Radar,Navigation,4.51671,389,MAPS_AND_NAVIGATION,4.4,18710
+1594,Ariana News AF,News,5.0,2,NEWS_AND_MAGAZINES,4.1,20
+1595,ARY NEWS URDU,News,2.9,20,NEWS_AND_MAGAZINES,4.4,1071
+1596,DENVER ACTION CAM 3,Photo & Video,0.0,0,PHOTOGRAPHY,2.9,66
+1597,Golf Channel,Sports,4.51922,22586,SPORTS,4.1,19230
+1598,GollerCepte 1903,Sports,4.63042,46,SPORTS,4.7,25172
+1599,Super Mario Run,Games,3.75598,55360,GAME,3.7,1221896
+1600,DF Night Selfies,Photo & Video,0.0,0,PHOTOGRAPHY,4.3,194
+1601,Reuters News,News,3.70246,1788,NEWS_AND_MAGAZINES,4.3,13169
+1602,Reuters News,News,3.70246,1788,NEWS_AND_MAGAZINES,4.3,13166
+1603,WFLA News Channel 8 - Tampa FL,News,4.67556,10985,NEWS_AND_MAGAZINES,3.8,133
+1604,FH WiFiCam,Photo & Video,3.25,4,PHOTOGRAPHY,2.6,201
+1605,Background Eraser,Photo & Video,0.0,0,PHOTOGRAPHY,4.5,267378
+1606,DN.VR,News,0.0,0,NEWS_AND_MAGAZINES,3.0,29
+1607,File Explorer,Utilities,3.0,7,PRODUCTIVITY,4.1,979
+1608,Instagram,Photo & Video,4.7468,21839585,SOCIAL,4.5,66577313
+1609,Instagram,Photo & Video,4.7468,21839585,SOCIAL,4.5,66577446
+1610,Instagram,Photo & Video,4.7468,21839585,SOCIAL,4.5,66509917
+1611,DK Pittsburgh Sports,Sports,4.48148,135,SPORTS,4.1,556
+1612,AKASO DV,Photo & Video,2.05825,206,TOOLS,2.4,99
+1613,Epson iPrint,Photo & Video,4.73824,131016,TOOLS,4.1,108169
+1614,Best Car Wallpapers,Reference,1.0,1,AUTO_AND_VEHICLES,4.5,994
+1615,Snapseed,Photo & Video,3.68997,7038,PHOTOGRAPHY,4.5,823109
+1616,Hypocam,Photo & Video,4.54026,298,PHOTOGRAPHY,4.5,12572
+1617,Flickr,Photo & Video,4.47581,11040,PHOTOGRAPHY,4.3,251951
+1618,Canon CameraWindow,Photo & Video,2.61538,143,PHOTOGRAPHY,3.5,12204
+1619,M-Sight Pro,Photo & Video,2.2,10,VIDEO_PLAYERS,3.3,30
+1620,SnipSnap Coupon App,Shopping,4.07759,464,SHOPPING,4.2,9975
+1621,LINE Camera - Photo editor,Photo & Video,4.68553,8621,PHOTOGRAPHY,4.3,1517369
+1622,LINE Camera - Photo editor,Photo & Video,4.68553,8621,PHOTOGRAPHY,4.3,1517395
+1623,U Guard,Photo & Video,1.87234,47,TOOLS,3.0,245
+1624,EZ-SEE,Photo & Video,0.0,0,VIDEO_PLAYERS,2.8,71
+1625,V.360° Camera,Photo & Video,2.37838,37,PHOTOGRAPHY,3.3,582
+1626,Yahoo Weather,Weather,4.66299,89675,WEATHER,4.4,1312037
+1627,XDV,Utilities,2.22823,333,PHOTOGRAPHY,3.1,6827
+1628,DW Event,News,1.0,1,EVENTS,4.3,9
+1629,Magisto Video Editor & Maker,Photo & Video,4.61946,118344,VIDEO_PLAYERS,4.3,960726
+1630,Nero AirBurn,Productivity,3.375,8,VIDEO_PLAYERS,4.2,1008
+1631,DS photo,Photo & Video,2.44578,83,VIDEO_PLAYERS,3.8,7335
+1632,Tattoo Name On My Photo Editor,Photo & Video,4.20512,39,ART_AND_DESIGN,4.2,44829
+1633,Live DV,Photo & Video,2.27999,75,PHOTOGRAPHY,2.0,16
+1634,FN Cam,Photo & Video,3.0,2,PHOTOGRAPHY,3.4,181
+1635,CX_WiFiUFO,Games,2.36364,11,SPORTS,3.7,818
+1636,G Cloud Backup,Productivity,2.24074,54,PRODUCTIVITY,4.6,267189
+1637,G Cloud Backup,Productivity,2.24074,54,PRODUCTIVITY,4.6,267042
+1638,We Heart It,Social Networking,4.43602,15937,SOCIAL,4.5,637309
+1639,We Heart It,Social Networking,4.43602,15937,SOCIAL,4.5,637254
+1640,Blur,Photo & Video,0.0,0,PHOTOGRAPHY,4.0,9013
+1641,Verizon Cloud,Productivity,4.57871,129580,PRODUCTIVITY,4.3,185632
+1642,Swahili Radio,News,3.0,1,NEWS_AND_MAGAZINES,4.5,171
+1643,Boomerang from Instagram,Photo & Video,4.09623,14175,PHOTOGRAPHY,4.4,928720
+1644,Sydney FC Official App,Sports,0.0,0,SPORTS,4.6,57
+1645,Phonto - Text on Photos,Photo & Video,4.81079,89259,PHOTOGRAPHY,4.3,307453
+1646,Easy Voice Recorder,Productivity,4.7505,2990,PRODUCTIVITY,4.4,205191
+1647,Swamp Attack,Games,4.66719,16529,GAME,4.4,2119218
+1648,Swamp Attack,Games,4.66719,16529,GAME,4.4,2119235
+1649,CT Prepares,News,5.0,2,NEWS_AND_MAGAZINES,2.6,13
+1650,Selfie Photo Editor,Photo & Video,5.0,1,PHOTOGRAPHY,4.6,11677
+1651,Sona - Nær við allastaðni,Lifestyle,4.75,4,LIFESTYLE,4.2,31
+1652,Fayr - Co-Parenting Simplified,Productivity,3.84091,132,PRODUCTIVITY,3.5,16
+1653,Photo Effects Pro,Photo & Video,0.0,0,PHOTOGRAPHY,4.4,1494491
+1654,GoAction,Photo & Video,1.81818,11,VIDEO_PLAYERS,3.6,1522
+1655,T-Mobile,Utilities,4.78685,2428970,TOOLS,4.3,482630
+1656,T-Mobile DIGITS,Productivity,2.2844,109,COMMUNICATION,3.0,1820
+1657,U+Box,Productivity,0.0,0,PRODUCTIVITY,3.8,24517
+1658,U-Scan,Productivity,1.81982,111,TOOLS,3.4,784
+1659,EF Calculator,Productivity,0.0,0,PRODUCTIVITY,4.7,19
+1660,Yandex.Disk,Productivity,4.78071,2125,PRODUCTIVITY,4.4,115072
+1661,Google Photos,Photo & Video,4.70334,327522,PHOTOGRAPHY,4.5,10858556
+1662,Google Photos,Photo & Video,4.70334,327522,PHOTOGRAPHY,4.5,10858538
+1663,Google Photos,Photo & Video,4.70334,327522,PHOTOGRAPHY,4.5,10859051
+1664,Google Photos,Photo & Video,4.70334,327522,PHOTOGRAPHY,4.5,10847682
+1665,Google Street View,Travel,4.05988,4776,TRAVEL_AND_LOCAL,4.2,2129689
+1666,Google Street View,Travel,4.05988,4776,TRAVEL_AND_LOCAL,4.2,2129707
+1667,Photo Mixer,Photo & Video,0.0,0,PHOTOGRAPHY,3.9,55427
+1668,Hercules CP Mobile,Utilities,4.55686,5813,TOOLS,1.4,20
+1669,Adblock Fast,Utilities,3.8,10,PRODUCTIVITY,4.1,9914
+1670,TwitCasting Live,Social Networking,4.44,25,SOCIAL,3.6,14835
+1671,Ultimate Notepad,Productivity,5.0,2,PRODUCTIVITY,4.0,10643
+1672,Microsoft OneDrive,Productivity,4.70674,328397,PRODUCTIVITY,4.4,1038306
+1673,Microsoft OneDrive,Productivity,4.70674,328397,PRODUCTIVITY,4.4,1038303
+1674,Tap N Pay,Productivity,2.42857,7,PRODUCTIVITY,4.4,253
+1675,IFTTT,Productivity,4.65027,50916,PRODUCTIVITY,4.3,117255
+1676,United Airlines,Travel,4.75325,3832380,TRAVEL_AND_LOCAL,3.5,30447
+1677,Device Help,Productivity,3.92308,13,TOOLS,4.2,28860
+1678,Kik,Social Networking,4.30731,401952,COMMUNICATION,4.3,2451136
+1679,DH UFO,Utilities,0.0,0,FAMILY,3.0,4
+1680,Ag PhD Soils,Productivity,1.72727,11,PRODUCTIVITY,2.3,3
+1681,PhotoScan by Google Photos,Photo & Video,4.78552,53902,PHOTOGRAPHY,4.3,61990
+1682,SPEED L,Shopping,2.57143,7,SHOPPING,4.3,85
+1683,Picai - Smart AI Camera,Photo & Video,2.5,2,PHOTOGRAPHY,4.0,529
+1684,Auto Background Changer,Photo & Video,4.46512,43,PHOTOGRAPHY,4.0,35188
+1685,Auto Background Changer,Photo & Video,1.66667,3,PHOTOGRAPHY,4.0,35188
+1686,Infinite Painter,Graphics & Design,4.10159,7186,ART_AND_DESIGN,4.1,36815
+1687,EP Research Service,Reference,0.0,0,BOOKS_AND_REFERENCE,4.7,14
+1688,Google Assistant,Utilities,4.74755,56446,PRODUCTIVITY,4.2,58675
+1689,Google Drive,Productivity,4.76539,4371475,PRODUCTIVITY,4.4,2731171
+1690,Google Drive,Productivity,4.76539,4371475,PRODUCTIVITY,4.4,2731211
+1691,Google Drive,Productivity,4.76539,4371475,PRODUCTIVITY,4.4,2728941
+1692,Google Voice,Productivity,4.28767,34661,COMMUNICATION,4.2,171031
+1693,Google Voice,Productivity,4.28767,34661,COMMUNICATION,4.2,171052
+1694,FE Connect,Utilities,3.28571,7,TOOLS,4.8,24
+1695,Snapchat,Photo & Video,3.63419,903284,SOCIAL,4.0,17014787
+1696,Snapchat,Photo & Video,3.63419,903284,SOCIAL,4.0,17014705
+1697,Snapchat,Photo & Video,3.63419,903284,SOCIAL,4.0,17015352
+1698,Snapchat,Photo & Video,3.63419,903284,SOCIAL,4.0,17000166
+1699,ES File Explorer,Productivity,0.0,0,TOOLS,4.1,278
+1700,Financial Calculator India,Productivity,0.0,0,FINANCE,4.6,13819
+1701,Golden Dictionary (EN-AR),Reference,3.62222,45,BOOKS_AND_REFERENCE,4.4,51269
+1702,Google,Utilities,4.31433,325475,TOOLS,4.4,8033493
+1703,Google,Utilities,4.31433,325475,TOOLS,4.4,8021623
+1704,Google Translate,Reference,4.46874,66363,TOOLS,4.4,5745093
+1705,Google Translate,Reference,4.46874,66363,TOOLS,4.4,5741684
+1706,Redbox,Utilities,3.77778,9,ENTERTAINMENT,4.1,115033
+1707,EB Annual Meetings,Reference,2.06666,15,BOOKS_AND_REFERENCE,3.5,11
+1708,SportCAM,Utilities,2.53846,13,TOOLS,3.2,427
+1709,ALL-IN-ONE PACKAGE TRACKING,Utilities,4.82917,7838,PRODUCTIVITY,4.7,167406
+1710,DC HSEMA,Reference,3.0,2,BOOKS_AND_REFERENCE,3.8,38
+1711,EF Mentor: Words,Education,3.66667,3,FAMILY,4.0,403
+1712,R Programming Language,Reference,1.0,3,FAMILY,3.8,39
+1713,Deck Shop for Clash Royale,Reference,4.33918,171,FAMILY,4.6,2167
+1714,DM HiDisk,Utilities,4.33333,6,TOOLS,2.8,54
+1715,BM Box,Reference,0.0,0,BOOKS_AND_REFERENCE,4.3,28
+1716,Agent HQ for The Division,Reference,3.5,6,FAMILY,4.1,1060
+1717,Do it (Tomorrow),Productivity,4.04861,144,PRODUCTIVITY,4.3,26452
+1718,Hunt Buddy BC,Reference,5.0,1,SPORTS,4.4,172
+1719,CARS.bg,Reference,4.71429,77,AUTO_AND_VEHICLES,4.5,276
+1720,Exército Brasileiro,Social Networking,5.0,3,PRODUCTIVITY,4.7,1730
+1721,CB Frequencies,Utilities,1.0,1,TOOLS,4.0,5
+1722,Web Browser & Explorer,Utilities,3.41837,98,COMMUNICATION,4.0,36901
+1723,FR Roster,Utilities,0.0,0,TOOLS,4.1,174
+1724,EZ Receipts,Productivity,4.72218,74775,FINANCE,4.0,2187
+1725,"Charlotte County, FL",Productivity,3.0,2,PRODUCTIVITY,4.7,10
+1726,Frequencies,Utilities,5.0,1,TOOLS,4.2,11
+1727,Frequencies Free,Utilities,3.0,2,TOOLS,3.5,382
+1728,WeChat,Social Networking,4.18708,63653,COMMUNICATION,4.2,5387333
+1729,WeChat,Social Networking,4.18708,63653,COMMUNICATION,4.2,5387446
+1730,WeChat,Social Networking,4.18708,63653,COMMUNICATION,4.2,5387631
+1731,Download Manager,Utilities,4.43804,2881,TOOLS,3.8,79132
+1732,What's Up,Utilities,4.22471,89,LIFESTYLE,4.1,23453
+1733,Amazon Drive,Productivity,4.55145,4071,PRODUCTIVITY,4.4,18669
+1734,A-Y Collection,Shopping,0.0,0,SHOPPING,5.0,2
+1735,B&M Stores,Shopping,0.0,0,SHOPPING,3.7,192
+1736,DS cloud,Productivity,2.66038,53,TOOLS,3.2,4908
+1737,DS file,Utilities,2.73611,216,PRODUCTIVITY,4.1,10676
+1738,DS note,Productivity,3.33871,62,PRODUCTIVITY,3.9,2046
+1739,DS router,Utilities,2.91765,85,TOOLS,3.8,253
+1740,DS-20000S,Utilities,1.86957,23,PRODUCTIVITY,1.8,12
+1741,DS-L4 Viewer,Utilities,0.0,0,PHOTOGRAPHY,3.5,13
+1742,Whoscall - Caller ID & Block,Utilities,2.52525,99,COMMUNICATION,4.4,552441
+1743,Whoscall - Caller ID & Block,Utilities,2.52525,99,COMMUNICATION,4.4,552635
+1744,Explore Sedona & Northern AZ,Travel,4.73913,23,TRAVEL_AND_LOCAL,3.8,43
+1745,Bomb and Nade Timer for CS:GO,Utilities,3.0,4,PRODUCTIVITY,2.6,85
+1746,APN Settings,Utilities,2.26667,15,TOOLS,3.7,3743
+1747,Antenna Tool,Productivity,3.0,6,TOOLS,4.2,522
+1748,R Studio,Shopping,0.0,0,SHOPPING,3.7,23
+1749,Lalafo Pulsuz Elanlar,Shopping,4.44692,763,SHOPPING,4.4,61392
+1750,Seznam.cz,Utilities,4.38462,26,COMMUNICATION,4.3,46702
+1751,Stocard - Rewards Cards Wallet,Shopping,4.73489,5609,SHOPPING,4.6,284725
+1752,Stocard - Rewards Cards Wallet,Shopping,4.73489,5609,SHOPPING,4.6,284721
+1753,"Town of Princeton, BC",Reference,0.0,0,PRODUCTIVITY,4.8,4
+1754,Penny Puss,Shopping,0.0,0,TOOLS,3.0,19
+1755,Schulman B.V.,Shopping,5.0,2,SHOPPING,4.0,6
+1756,Speedtest by Ookla,Utilities,4.11306,10393,TOOLS,4.4,1028794
+1757,Speedtest by Ookla,Utilities,0.0,0,TOOLS,4.4,1028794
+1758,BV Mobile Apps,Productivity,4.7931,29,PRODUCTIVITY,5.0,3
+1759,McDonald's,Food & Drink,4.50954,559103,FOOD_AND_DRINK,3.6,145323
+1760,McDonald's,Food & Drink,4.50954,559103,FOOD_AND_DRINK,3.6,145646
+1761,To Do Reminder with Alarm,Productivity,4.60091,1531,PRODUCTIVITY,4.4,72161
+1762,Messenger,Social Networking,0.0,0,SOCIAL,4.1,68025
+1763,CF Appreciation,Shopping,0.0,0,LIFESTYLE,2.0,11
+1764,Nike,Shopping,4.88354,1073588,SHOPPING,4.7,67071
+1765,Chilindo,Shopping,4.58389,149,SHOPPING,3.8,18364
+1766,Facebook,Social Networking,2.20365,1140856,SOCIAL,4.1,78158306
+1767,Facebook,Social Networking,2.20365,1140856,SOCIAL,4.1,78128208
+1768,Call Recorder,Utilities,0.0,0,LIBRARIES_AND_DEMO,4.7,48
+1769,CW Nuclear,Reference,4.25,4,BOOKS_AND_REFERENCE,3.3,15
+1770,Halalguur,Social Networking,1.0,1,DATING,4.3,6
+1771,Microsoft Translator,Productivity,4.76189,119659,PRODUCTIVITY,4.6,209696
+1772,Hangouts,Social Networking,4.24149,75175,COMMUNICATION,4.0,3419249
+1773,Hangouts,Social Networking,4.24149,75175,COMMUNICATION,4.0,3419433
+1774,Hangouts,Social Networking,4.24149,75175,COMMUNICATION,4.0,3419513
+1775,Hangouts,Social Networking,4.24149,75175,COMMUNICATION,4.0,3419464
+1776,Dating.dk,Social Networking,4.5,4,SOCIAL,3.7,2111
+1777,Stats Royale for Clash Royale,Reference,4.41662,4414,BOOKS_AND_REFERENCE,4.5,68226
+1778,BC Hockey,Sports,0.0,0,SPORTS,3.7,20
+1779,Fantasy Football,Sports,0.0,0,SPORTS,3.5,50179
+1780,Find My Friends,Social Networking,3.47619,42,SOCIAL,4.2,305367
+1781,MK eCatalog,Shopping,4.88374,12807,LIFESTYLE,4.0,6676
+1782,Co-op Connections,Shopping,2.5,8,SHOPPING,1.6,8
+1783,FollowMeter for Instagram,Social Networking,4.16706,10266,SOCIAL,4.4,90082
+1784,Black Social,Social Networking,4.5,8,SOCIAL,4.6,22
+1785,Puffin Browser Pro,Utilities,2.93353,1354,COMMUNICATION,4.0,18247
+1786,Puffin Web Browser,Utilities,4.04865,6311,COMMUNICATION,4.3,541389
+1787,Puffin Web Browser,Utilities,4.04865,6311,COMMUNICATION,4.3,541661
+1788,Axxess Updater,Utilities,1.0,1,TOOLS,3.9,56
+1789,Type S LED,Productivity,3.11667,180,LIFESTYLE,3.5,628
+1790,Amino: Communities and Chats,Social Networking,4.71628,244637,SOCIAL,4.8,1259075
+1791,Amino: Communities and Chats,Social Networking,4.71628,244637,SOCIAL,4.8,1264084
+1792,EC SPORTS,Sports,0.0,0,SPORTS,5.0,1
+1793,WhatsApp Messenger,Social Networking,4.69416,9090956,COMMUNICATION,4.4,69119316
+1794,WhatsApp Messenger,Social Networking,4.69416,9090956,COMMUNICATION,4.4,69109672
+1795,CP ToolBox,Shopping,0.0,0,BUSINESS,4.6,70
+1796,Ez iCam,Sports,2.48619,181,PHOTOGRAPHY,3.1,7300
+1797,AO Player,Sports,0.0,0,EVENTS,4.0,9
+1798,Bike 3D Configurator,Sports,4.45455,44,SPORTS,4.3,34062
+1799,Tennis 24 - tennis live scores,Sports,4.91667,12,SPORTS,4.6,990
+1800,PGA TOUR,Sports,4.59611,36936,SPORTS,4.0,11151
+1801,FK Željezničar,Sports,5.0,2,SPORTS,4.9,1420
+1802,FN,Sports,1.0,1,BUSINESS,5.0,14
+1803,EG SIM CARD (EGSIMCARD),Travel,1.0,2,TRAVEL_AND_LOCAL,4.4,105
+1804,DG Cars,Travel,5.0,1,TRAVEL_AND_LOCAL,2.6,122
+1805,Flexiroam X,Travel,3.6125,80,TRAVEL_AND_LOCAL,4.0,875
+1806,Skater Boy,Games,3.25,20,GAME,4.3,1167143
+1807,Qatar Airways,Travel,4.61366,10087,TRAVEL_AND_LOCAL,4.3,11182
+1808,Fly Delta,Travel,4.83158,3844586,TRAVEL_AND_LOCAL,3.7,27560
+1809,A. O. Smith,Utilities,2.61111,18,TOOLS,4.2,32
+1810,F-Gas Solutions,Utilities,0.0,0,BUSINESS,4.2,127
+1811,F-Secure SAFE,Utilities,4.06838,117,TOOLS,4.3,9433
+1812,F-Secure SENSE,Utilities,5.0,1,TOOLS,4.6,57
+1813,Etihad Airways,Travel,4.58703,16454,TRAVEL_AND_LOCAL,4.1,3674
+1814,Cestovné poriadky CP,Travel,4.87402,127,MAPS_AND_NAVIGATION,4.6,2681
+1815,SugarSync,Productivity,3.14,50,PRODUCTIVITY,4.1,16420
+1816,GPS Status & Toolbox,Travel,4.34109,129,TRAVEL_AND_LOCAL,4.5,149723
+1817,SBB Mobile,Travel,4.8,5,MAPS_AND_NAVIGATION,3.7,20605
+1818,EV Charging,Travel,1.0,1,MAPS_AND_NAVIGATION,3.5,8
+1819,Schengen/EU App,Travel,4.2,5,TOOLS,4.0,24
+1820,Ex Service Taxis,Travel,0.0,0,BUSINESS,3.5,15
+1821,Big Q Car Service,Travel,4.84615,104,MAPS_AND_NAVIGATION,4.4,75
+1822,DB LINK RGB,Utilities,2.15384,13,TOOLS,2.7,7
+1823,Barry EC,Utilities,0.0,0,TOOLS,4.1,14
+1824,G-REMOTE,Utilities,0.0,0,HOUSE_AND_HOME,4.5,30
+1825,Amtrak,Travel,4.61019,51722,TRAVEL_AND_LOCAL,3.7,16815
+1826,K-Rain BL,Utilities,4.0,5,TOOLS,4.0,9
+1827,BC Wildfire,Utilities,5.0,1,TOOLS,3.3,27
+1828,Passenger rights,Travel,0.0,0,TRAVEL_AND_LOCAL,3.9,442
+1829,Sport.pl LIVE,Sports,3.0,15,SPORTS,4.4,21733
+1830,Bee'ah Employee App,Business,5.0,1,COMMUNICATION,4.0,4
+1831,Kiamichi EC,Utilities,4.0,1,TOOLS,4.6,7
+1832,Carrier Air Conditioner,Utilities,1.88889,18,TOOLS,2.5,362
+1833,EH kontrollrakendus,Utilities,0.0,0,TOOLS,3.4,43
+1834,Ghostery Privacy Browser,Utilities,3.94519,748,COMMUNICATION,4.1,13100
+1835,Safe Wi-Fi,Utilities,3.74242,66,PRODUCTIVITY,2.9,32
+1836,Comboios de Portugal,Travel,2.54999,20,MAPS_AND_NAVIGATION,3.4,1147
+1837,Ai-Ball AV Recorder,Utilities,2.0,3,PHOTOGRAPHY,2.7,90
+1838,Digital Falak,Utilities,0.0,0,TOOLS,4.7,3408
+1839,Tasker,Utilities,1.0,1,TOOLS,4.6,43045
+1840,SMS Park,Utilities,4.48214,56,AUTO_AND_VEHICLES,4.5,3617
+1841,Solitaire,Games,4.41779,371,GAME,4.7,254258
+1842,Solitaire,Games,4.41779,371,GAME,4.7,154264
+1843,Solitaire,Games,4.41779,371,FAMILY,4.4,685
+1844,HOLSTON EC,Utilities,4.0,4,TOOLS,4.1,7
+1845,CE on the go,Utilities,4.0,1,TOOLS,4.4,79
+1846,Sound Meter,Utilities,0.0,0,TOOLS,4.7,88993
+1847,My G:,Travel,0.0,0,MAPS_AND_NAVIGATION,3.7,96
+1848,Sat-Fi,Utilities,4.0,5,COMMUNICATION,3.6,97
+1849,Sat-Fi Voice,Utilities,2.33333,6,COMMUNICATION,3.4,37
+1850,DM airdisk,Utilities,1.0,1,TOOLS,2.8,11
+1851,YouTube Studio,Photo & Video,4.00624,13925,VIDEO_PLAYERS,4.3,436921
+1852,YouTube Studio,Photo & Video,4.00624,13925,VIDEO_PLAYERS,4.3,436170
+1853,Entel,Utilities,3.82995,394,LIFESTYLE,3.2,16168
+1854,WE,Utilities,0.0,0,NEWS_AND_MAGAZINES,3.8,18818
+1855,Weather,Weather,0.0,0,WEATHER,4.2,18773
+1856,Weather,Weather,3.86973,522,WEATHER,4.2,18773
+1857,Mediatek SmartDevice,Utilities,2.28972,107,TOOLS,3.6,11187
+1858,Victoria EC,Utilities,0.0,0,TOOLS,5.0,5
+1859,Florida Storms,Weather,3.82759,29,WEATHER,3.8,116
+1860,Info BMKG,Weather,3.75,12,WEATHER,4.3,21404
+1861,Storm Shield,Weather,4.74655,73824,WEATHER,3.5,2000
+1862,Merck CE,Business,0.0,0,BUSINESS,4.5,2
+1863,DT Baby Cam,Utilities,1.0,4,TOOLS,1.7,10
+1864,DT future1 cam,Utilities,0.0,0,TOOLS,1.0,1
+1865,Weather Radar Widget,Weather,4.42795,458,WEATHER,4.3,18194
+1866,Tassa.fi Finland,Lifestyle,0.0,0,LIFESTYLE,3.6,346
+1867,Furrion ES Control,Utilities,1.6896600000000002,58,VIDEO_PLAYERS,1.8,26
+1868,AP Installer,Utilities,0.0,0,TOOLS,4.5,23
+1869,BZ Conferencing,Utilities,5.0,1,TOOLS,4.7,7
+1870,EZ-ELD Update,Utilities,3.0,6,AUTO_AND_VEHICLES,3.1,14
+1871,Roland DG Mobile Panel,Utilities,2.33333,3,TOOLS,2.8,27
+1872,AT&T Call Protect,Utilities,4.5057,593922,COMMUNICATION,4.2,6454
+1873,Contacts,Utilities,3.15385,156,COMMUNICATION,4.3,66602
+1874,AV Tools,Utilities,3.75,4,TOOLS,4.4,631
+1875,Smart Air Conditioner,Utilities,1.66667,9,TOOLS,3.3,4786
+1876,Smart Air Conditioner(CAC),Utilities,4.0,2,TOOLS,3.2,409
+1877,My C Spire,Utilities,3.86576,1393,PRODUCTIVITY,4.1,376
+1878,Smart TV Remote,Utilities,2.95833,24,TOOLS,3.5,81747
+1879,MyMTN,Utilities,2.8821,458,PRODUCTIVITY,4.0,8550
